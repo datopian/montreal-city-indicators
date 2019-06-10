@@ -1,0 +1,189 @@
+{
+    "name": "montreal-kpis",
+    "licenses": [
+        {
+            "name": "ODC-PDDL",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and License"
+        }
+    ],
+    "resources": [
+        {
+            "name": "parks",
+            "path": "parks.csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "format": "csv",
+            "schema": {
+                "missingValues": [
+                    ""
+                ],
+                "fields": [
+                    {
+                        "name": "KPIID",
+                        "format": "default",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "NomIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "UniteMesure",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "noIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "TypeIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "ville",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "DateDonnee",
+                        "format": "default",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Valeur",
+                        "format": "default",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Calcul",
+                        "format": "default",
+                        "type": "string"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "libs",
+            "path": "libs.csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "format": "csv",
+            "schema": {
+                "missingValues": [
+                    ""
+                ],
+                "fields": [
+                    {
+                        "name": "KPIID",
+                        "format": "default",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "NomIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "UniteMesure",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "noIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "TypeIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "ville",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "DateDonnee",
+                        "format": "default",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Valeur",
+                        "format": "default",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Calcul",
+                        "format": "default",
+                        "type": "string"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "trips",
+            "path": "trips.csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "format": "csv",
+            "schema": {
+                "missingValues": [
+                    ""
+                ],
+                "fields": [
+                    {
+                        "name": "KPIID",
+                        "format": "default",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "NomIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "UniteMesure",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "noIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "TypeIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "ville",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "DateDonnee",
+                        "format": "default",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Valeur",
+                        "format": "default",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Calcul",
+                        "format": "default",
+                        "type": "string"
+                    }
+                ]
+            }
+        }
+    ]
+}

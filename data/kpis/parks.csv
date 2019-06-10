@@ -1,0 +1,6 @@
+KPIID,NomIndicateur,UniteMesure,noIndicateur,TypeIndicateur,ville,DateDonnee,Valeur,Calcul
+2554,Coûts d’exploitation relatifs aux parcs par hectare,$,PRKS315,REM Canada,Montréal,2013,29904.01402, ( VPAR100001 + VPAR100009 + VPAR100013 ) / ( VPAR900010 + VPAR900011 + VPAR900012 ) 
+2554,Coûts d’exploitation relatifs aux parcs par hectare,$,PRKS315,REM Canada,Montréal,2014,28262.92051, ( VPAR100001 + VPAR100009 + VPAR100013 ) / ( VPAR900010 + VPAR900011 + VPAR900012 ) 
+2554,Coûts d’exploitation relatifs aux parcs par hectare,$,PRKS315,REM Canada,Montréal,2015,29357.43086, ( VPAR100001 + VPAR100009 + VPAR100013 ) / ( VPAR900010 + VPAR900011 + VPAR900012 ) 
+2554,Coûts d’exploitation relatifs aux parcs par hectare,$,PRKS315,REM Canada,Montréal,2016,31671.54449, ( VPAR100001 + VPAR100009 + VPAR100013 ) / ( VPAR900010 + VPAR900011 + VPAR900012 ) 
+2554,Coûts d’exploitation relatifs aux parcs par hectare,$,PRKS315,REM Canada,Montréal,2017,33546.07818, ( VPAR100001 + VPAR100009 + VPAR100013 ) / ( VPAR900010 + VPAR900011 + VPAR900012 ) 

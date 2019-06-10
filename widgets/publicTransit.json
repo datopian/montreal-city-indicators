@@ -1,0 +1,39 @@
+{"widget":{
+  "elementId": "publicTransit",
+  "view": {
+    "title": "XXXXXXX Rides",
+    "legend": "XXXXXXXX Total rides",
+    "resources": [
+      {
+	"datasetId": "montreal-kpis",
+	"name": "trips",
+	"transform": [
+	  {
+	    "type": "aggregate",
+	    "fields": [
+	      "Valeur"
+	    ],
+	    "operations": [
+	      "argmax"
+	    ]
+	  }
+	]
+      }
+    ],
+    "specType": "vega",
+    "spec": {
+      "data": [
+      {
+        "name": "trips",
+        "format": {
+          "parse": {
+            "Valueur": "number"
+          }
+        }
+      }
+      ],
+      "$schema": "https://vega.github.io/schema/vega/v3.json"
+    }
+  }
+},
+"dataset": "https://datahub.io/starsinmypockets/montreal-kpis"}

@@ -1,0 +1,4 @@
+.*sw*
+.~lock.*
+*.zip
+node_modules
