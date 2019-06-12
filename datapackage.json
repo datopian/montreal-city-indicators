@@ -1,0 +1,245 @@
+{
+    "resources": [
+        {
+            "schema": {
+                "missingValues": [
+                    ""
+                ],
+                "fields": [
+                    {
+                        "type": "integer",
+                        "name": "KPIID",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "NomIndicateur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "UniteMesure",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "noIndicateur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "TypeIndicateur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "ville",
+                        "format": "default"
+                    },
+                    {
+                        "type": "integer",
+                        "name": "DateDonnee",
+                        "format": "default"
+                    },
+                    {
+                        "type": "number",
+                        "name": "Valeur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "Calcul",
+                        "format": "default"
+                    }
+                ]
+            },
+            "mediatype": "text/csv",
+            "format": "csv",
+            "path": "parks.csv",
+            "encoding": "utf-8",
+            "name": "parks",
+            "profile": "tabular-data-resource"
+        },
+        {
+            "schema": {
+                "missingValues": [
+                    ""
+                ],
+                "fields": [
+                    {
+                        "type": "integer",
+                        "name": "KPIID",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "NomIndicateur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "UniteMesure",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "noIndicateur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "TypeIndicateur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "ville",
+                        "format": "default"
+                    },
+                    {
+                        "type": "integer",
+                        "name": "DateDonnee",
+                        "format": "default"
+                    },
+                    {
+                        "type": "number",
+                        "name": "Valeur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "Calcul",
+                        "format": "default"
+                    }
+                ]
+            },
+            "mediatype": "text/csv",
+            "format": "csv",
+            "path": "libs.csv",
+            "encoding": "utf-8",
+            "name": "libs",
+            "profile": "tabular-data-resource"
+        },
+        {
+            "schema": {
+                "missingValues": [
+                    ""
+                ],
+                "fields": [
+                    {
+                        "type": "integer",
+                        "name": "KPIID",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "NomIndicateur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "UniteMesure",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "noIndicateur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "TypeIndicateur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "ville",
+                        "format": "default"
+                    },
+                    {
+                        "type": "integer",
+                        "name": "DateDonnee",
+                        "format": "default"
+                    },
+                    {
+                        "type": "number",
+                        "name": "Valeur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "Calcul",
+                        "format": "default"
+                    }
+                ]
+            },
+            "mediatype": "text/csv",
+            "format": "csv",
+            "path": "indicateurs.csv",
+            "encoding": "utf-8",
+            "name": "indicateurs",
+            "profile": "tabular-data-resource"
+        },
+        {
+            "schema": {
+                "missingValues": [
+                    ""
+                ],
+                "fields": [
+                    {
+                        "type": "integer",
+                        "name": "KPIID",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "NomIndicateur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "UniteMesure",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "noIndicateur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "TypeIndicateur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "ville",
+                        "format": "default"
+                    },
+                    {
+                        "type": "integer",
+                        "name": "DateDonnee",
+                        "format": "default"
+                    },
+                    {
+                        "type": "number",
+                        "name": "Valeur",
+                        "format": "default"
+                    },
+                    {
+                        "type": "string",
+                        "name": "Calcul",
+                        "format": "default"
+                    }
+                ]
+            },
+            "mediatype": "text/csv",
+            "format": "csv",
+            "path": "trips.csv",
+            "encoding": "utf-8",
+            "name": "trips",
+            "profile": "tabular-data-resource"
+        }
+    ],
+    "profile": "tabular-data-package"
+}

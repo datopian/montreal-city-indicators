@@ -1,0 +1,6 @@
+KPIID,NomIndicateur,UniteMesure,noIndicateur,TypeIndicateur,ville,DateDonnee,Valeur,Calcul
+2692,Coûts d’exploitation des bibliothèques par habitant,$,PLIB901,REM Canada,Montréal,2013,58.0587, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 - VBIB100041 ) / VPOP900002 
+2692,Coûts d’exploitation des bibliothèques par habitant,$,PLIB901,REM Canada,Montréal,2014,54.84356, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 - VBIB100041 ) / VPOP900002 
+2692,Coûts d’exploitation des bibliothèques par habitant,$,PLIB901,REM Canada,Montréal,2015,78.25005, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 - VBIB100041 ) / VPOP900002 
+2692,Coûts d’exploitation des bibliothèques par habitant,$,PLIB901,REM Canada,Montréal,2016,80.37154, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 - VBIB100041 ) / VPOP900002 
+2692,Coûts d’exploitation des bibliothèques par habitant,$,PLIB901,REM Canada,Montréal,2017,75.66638, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 - VBIB100041 ) / VPOP900002 

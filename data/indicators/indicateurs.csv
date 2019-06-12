@@ -1,0 +1,824 @@
+KPIID,NomIndicateur,UniteMesure,noIndicateur,TypeIndicateur,ville,DateDonnee,Valeur,Calcul
+2412,Coûts d’exploitation du service centralisé des achats pour 1 000 $ d’achats de biens et services,$,FPUR362,REM Canada,Montréal,2014,22.46339,VAPP100001 * 1000 / VAPP900010
+2412,Coûts d’exploitation du service centralisé des achats pour 1 000 $ d’achats de biens et services,$,FPUR362,REM Canada,Montréal,2015,9.85202,VAPP100001 * 1000 / VAPP900010
+2412,Coûts d’exploitation du service centralisé des achats pour 1 000 $ d’achats de biens et services,$,FPUR362,REM Canada,Montréal,2016,12.76041,VAPP100001 * 1000 / VAPP900010
+2412,Coûts d’exploitation du service centralisé des achats pour 1 000 $ d’achats de biens et services,$,FPUR362,REM Canada,Montréal,2017,10.18242,VAPP100001 * 1000 / VAPP900010
+2413,Nombre moyen de soumissions par appel d’offres,Quantité,FPUR415,REM Canada,Montréal,2011,5.35604,VAPP900016 / VAPP900017 
+2413,Nombre moyen de soumissions par appel d’offres,Quantité,FPUR415,REM Canada,Montréal,2012,4.07623,VAPP900016 / VAPP900017 
+2413,Nombre moyen de soumissions par appel d’offres,Quantité,FPUR415,REM Canada,Montréal,2013,4.24312,VAPP900016 / VAPP900017 
+2413,Nombre moyen de soumissions par appel d’offres,Quantité,FPUR415,REM Canada,Montréal,2014,4.33788,VAPP900016 / VAPP900017 
+2413,Nombre moyen de soumissions par appel d’offres,Quantité,FPUR415,REM Canada,Montréal,2015,4.35537,VAPP900016 / VAPP900017 
+2413,Nombre moyen de soumissions par appel d’offres,Quantité,FPUR415,REM Canada,Montréal,2016,4.61433,VAPP900016 / VAPP900017 
+2413,Nombre moyen de soumissions par appel d’offres,Quantité,FPUR415,REM Canada,Montréal,2017,4.50794,VAPP900016 / VAPP900017 
+2418,Nombre d’employés affectés aux opérations de lutte contre les incendies pour 1 000 habitants,Quantité,FIRE212,REM Canada,Montréal,2013,1.23271,VINC900017 / ( VPOP900004 / 1000 ) 
+2418,Nombre d’employés affectés aux opérations de lutte contre les incendies pour 1 000 habitants,Quantité,FIRE212,REM Canada,Montréal,2014,1.22822,VINC900017 / ( VPOP900004 / 1000 ) 
+2418,Nombre d’employés affectés aux opérations de lutte contre les incendies pour 1 000 habitants,Quantité,FIRE212,REM Canada,Montréal,2015,1.21239,VINC900017 / ( VPOP900004 / 1000 ) 
+2418,Nombre d’employés affectés aux opérations de lutte contre les incendies pour 1 000 habitants,Quantité,FIRE212,REM Canada,Montréal,2016,1.1885,VINC900017 / ( VPOP900004 / 1000 ) 
+2418,Nombre d’employés affectés aux opérations de lutte contre les incendies pour 1 000 habitants,Quantité,FIRE212,REM Canada,Montréal,2017,1.1703,VINC900017 / ( VPOP900004 / 1000 ) 
+2421,Coûts d’exploitation par kilomètre de véhicule municipal,$,FLET326,REM Canada,Montréal,2014,1.16315, ( VAPP100002 + VAPP100005 + VAPP100003 ) / ( VAPP900007 + VAPP900009 + VAPP900008 ) 
+2421,Coûts d’exploitation par kilomètre de véhicule municipal,$,FLET326,REM Canada,Montréal,2015,1.14671, ( VAPP100002 + VAPP100005 + VAPP100003 ) / ( VAPP900007 + VAPP900009 + VAPP900008 ) 
+2421,Coûts d’exploitation par kilomètre de véhicule municipal,$,FLET326,REM Canada,Montréal,2016,1.10121, ( VAPP100002 + VAPP100005 + VAPP100003 ) / ( VAPP900007 + VAPP900009 + VAPP900008 ) 
+2421,Coûts d’exploitation par kilomètre de véhicule municipal,$,FLET326,REM Canada,Montréal,2017,1.08029, ( VAPP100002 + VAPP100005 + VAPP100003 ) / ( VAPP900007 + VAPP900009 + VAPP900008 ) 
+2422,Pourcentage de biens et services municipaux achetés par le service centralisé des achats via un processus d’approvisionnement,%,FPUR107,REM Canada,Montréal,2014,0.31211,VAPP900010 / VAPP900012 
+2422,Pourcentage de biens et services municipaux achetés par le service centralisé des achats via un processus d’approvisionnement,%,FPUR107,REM Canada,Montréal,2015,0.60499,VAPP900010 / VAPP900012 
+2422,Pourcentage de biens et services municipaux achetés par le service centralisé des achats via un processus d’approvisionnement,%,FPUR107,REM Canada,Montréal,2016,0.38634,VAPP900010 / VAPP900012 
+2422,Pourcentage de biens et services municipaux achetés par le service centralisé des achats via un processus d’approvisionnement,%,FPUR107,REM Canada,Montréal,2017,0.3635,VAPP900010 / VAPP900012 
+2425,Pourcentage de comptes de taxes client inscrits dans le système de prélèvements préautorisés,%,TXRS405,REM Canada,Montréal,2012,0,VFIN900028 / VFIN900027 
+2425,Pourcentage de comptes de taxes client inscrits dans le système de prélèvements préautorisés,%,TXRS405,REM Canada,Montréal,2013,0,VFIN900028 / VFIN900027 
+2425,Pourcentage de comptes de taxes client inscrits dans le système de prélèvements préautorisés,%,TXRS405,REM Canada,Montréal,2014,0,VFIN900028 / VFIN900027 
+2425,Pourcentage de comptes de taxes client inscrits dans le système de prélèvements préautorisés,%,TXRS405,REM Canada,Montréal,2015,0,VFIN900028 / VFIN900027 
+2425,Pourcentage de comptes de taxes client inscrits dans le système de prélèvements préautorisés,%,TXRS405,REM Canada,Montréal,2016,0,VFIN900028 / VFIN900027 
+2425,Pourcentage de comptes de taxes client inscrits dans le système de prélèvements préautorisés,%,TXRS405,REM Canada,Montréal,2017,0,VFIN900028 / VFIN900027 
+2427,Taux facturé pour une heure d’entretien ou de réparation de véhicules municipaux ,$,FLET347,REM Canada,Montréal,2014,97,VAPP900020 
+2427,Taux facturé pour une heure d’entretien ou de réparation de véhicules municipaux ,$,FLET347,REM Canada,Montréal,2015,97,VAPP900020 
+2427,Taux facturé pour une heure d’entretien ou de réparation de véhicules municipaux ,$,FLET347,REM Canada,Montréal,2016,97,VAPP900020 
+2427,Taux facturé pour une heure d’entretien ou de réparation de véhicules municipaux ,$,FLET347,REM Canada,Montréal,2017,97,VAPP900020 
+2428,Pourcentage d’heures consacrées à la réparation de véhicules municipaux en atelier et qui ne sont pas prévues dans les bons de travail relatifs à l’entretien planifié ou préventif,%,FLET415,REM Canada,Montréal,2014,0.60096,VAPP900019 / ( VAPP900019 + VAPP900018 ) 
+2428,Pourcentage d’heures consacrées à la réparation de véhicules municipaux en atelier et qui ne sont pas prévues dans les bons de travail relatifs à l’entretien planifié ou préventif,%,FLET415,REM Canada,Montréal,2015,0.57163,VAPP900019 / ( VAPP900019 + VAPP900018 ) 
+2428,Pourcentage d’heures consacrées à la réparation de véhicules municipaux en atelier et qui ne sont pas prévues dans les bons de travail relatifs à l’entretien planifié ou préventif,%,FLET415,REM Canada,Montréal,2016,0.57996,VAPP900019 / ( VAPP900019 + VAPP900018 ) 
+2428,Pourcentage d’heures consacrées à la réparation de véhicules municipaux en atelier et qui ne sont pas prévues dans les bons de travail relatifs à l’entretien planifié ou préventif,%,FLET415,REM Canada,Montréal,2017,0.56228,VAPP900019 / ( VAPP900019 + VAPP900018 ) 
+2433,Nombre de consultations sur le site Web principal de la Ville par habitant,Quantité,INTN105,REM Canada,Montréal,2011,12.14692, ( VCOM900001 + VCOM900002 ) / VPOP900002 
+2433,Nombre de consultations sur le site Web principal de la Ville par habitant,Quantité,INTN105,REM Canada,Montréal,2012,14.03496, ( VCOM900001 + VCOM900002 ) / VPOP900002 
+2433,Nombre de consultations sur le site Web principal de la Ville par habitant,Quantité,INTN105,REM Canada,Montréal,2013,15.17469, ( VCOM900001 + VCOM900002 ) / VPOP900002 
+2433,Nombre de consultations sur le site Web principal de la Ville par habitant,Quantité,INTN105,REM Canada,Montréal,2014,13.16591, ( VCOM900001 + VCOM900002 ) / VPOP900002 
+2433,Nombre de consultations sur le site Web principal de la Ville par habitant,Quantité,INTN105,REM Canada,Montréal,2015,11.77255, ( VCOM900001 + VCOM900002 ) / VPOP900002 
+2433,Nombre de consultations sur le site Web principal de la Ville par habitant,Quantité,INTN105,REM Canada,Montréal,2016,13.72178, ( VCOM900001 + VCOM900002 ) / VPOP900002 
+2433,Nombre de consultations sur le site Web principal de la Ville par habitant,Quantité,INTN105,REM Canada,Montréal,2017,15.82265, ( VCOM900001 + VCOM900002 ) / VPOP900002 
+2434,Taux de rendement réalisé sur le portefeuille global de placements selon la valeur historique,%,INVT317,REM Canada,Montréal,2015,0.0151,VFIN900069 / 3.000
+2434,Taux de rendement réalisé sur le portefeuille global de placements selon la valeur historique,%,INVT317,REM Canada,Montréal,2016,0.0142,VFIN900069 / 3.000
+2434,Taux de rendement réalisé sur le portefeuille global de placements selon la valeur historique,%,INVT317,REM Canada,Montréal,2017,0.01373,VFIN900069 / 3.000
+2435,Temps de réponse du service des incendies au 90e percentile (zone urbaine),minutes,FIRE407,REM Canada,Montréal,2013,6.33333,VINC900023 
+2435,Temps de réponse du service des incendies au 90e percentile (zone urbaine),minutes,FIRE407,REM Canada,Montréal,2014,6.83333,VINC900023 
+2435,Temps de réponse du service des incendies au 90e percentile (zone urbaine),minutes,FIRE407,REM Canada,Montréal,2015,6.81667,VINC900023 
+2435,Temps de réponse du service des incendies au 90e percentile (zone urbaine),minutes,FIRE407,REM Canada,Montréal,2016,6.75,VINC900023 
+2435,Temps de réponse du service des incendies au 90e percentile (zone urbaine),minutes,FIRE407,REM Canada,Montréal,2017,6.71666,VINC900023 
+2437,Coûts d’exploitation relatifs à la fonction des comptes clients par facture,$,GREV310,REM Canada,Montréal,2012,51.9318,VFIN100002 / VFIN900025 
+2437,Coûts d’exploitation relatifs à la fonction des comptes clients par facture,$,GREV310,REM Canada,Montréal,2013,50.20689,VFIN100002 / VFIN900025 
+2437,Coûts d’exploitation relatifs à la fonction des comptes clients par facture,$,GREV310,REM Canada,Montréal,2014,28.21847,VFIN100002 / VFIN900025 
+2437,Coûts d’exploitation relatifs à la fonction des comptes clients par facture,$,GREV310,REM Canada,Montréal,2015,39.53759,VFIN100002 / VFIN900025 
+2437,Coûts d’exploitation relatifs à la fonction des comptes clients par facture,$,GREV310,REM Canada,Montréal,2016,37.9042,VFIN100002 / VFIN900025 
+2437,Coûts d’exploitation relatifs à la fonction des comptes clients par facture,$,GREV310,REM Canada,Montréal,2017,40.22426,VFIN100002 / VFIN900025 
+2441,Coûts d’exploitation par tonne de matières résiduelles — Toutes les catégories de propriétés,$,SWST903M,REM Canada,Montréal,2014,223.46479, ( VGMR100031 + VGMR100033 + VGMR100034 + VGMR100035 ) / VGMR900014 
+2441,Coûts d’exploitation par tonne de matières résiduelles — Toutes les catégories de propriétés,$,SWST903M,REM Canada,Montréal,2015,229.52766, ( VGMR100031 + VGMR100033 + VGMR100034 + VGMR100035 ) / VGMR900014 
+2441,Coûts d’exploitation par tonne de matières résiduelles — Toutes les catégories de propriétés,$,SWST903M,REM Canada,Montréal,2016,225.10414, ( VGMR100031 + VGMR100033 + VGMR100034 + VGMR100035 ) / VGMR900014 
+2441,Coûts d’exploitation par tonne de matières résiduelles — Toutes les catégories de propriétés,$,SWST903M,REM Canada,Montréal,2017,216.05386, ( VGMR100031 + VGMR100033 + VGMR100034 + VGMR100035 ) / VGMR900014 
+2444,Coûts d’exploitation liés à la gestion des comptes de taxes client par compte de taxes client géré,$,TXRS310,REM Canada,Montréal,2013,25.08617, ( VFIN100004 + VFIN100076 ) / VFIN900023 
+2444,Coûts d’exploitation liés à la gestion des comptes de taxes client par compte de taxes client géré,$,TXRS310,REM Canada,Montréal,2014,21.92772, ( VFIN100004 + VFIN100076 ) / VFIN900023 
+2444,Coûts d’exploitation liés à la gestion des comptes de taxes client par compte de taxes client géré,$,TXRS310,REM Canada,Montréal,2015,20.58491, ( VFIN100004 + VFIN100076 ) / VFIN900023 
+2444,Coûts d’exploitation liés à la gestion des comptes de taxes client par compte de taxes client géré,$,TXRS310,REM Canada,Montréal,2016,19.88544, ( VFIN100004 + VFIN100076 ) / VFIN900023 
+2444,Coûts d’exploitation liés à la gestion des comptes de taxes client par compte de taxes client géré,$,TXRS310,REM Canada,Montréal,2017,17.65276, ( VFIN100004 + VFIN100076 ) / VFIN900023 
+2447,Coûts d’exploitation relatifs aux comptes fournisseurs par facture payée,$,FINV317,REM Canada,Montréal,2012,4.07392, ( VFIN100005 + VFIN100075 ) / ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) 
+2447,Coûts d’exploitation relatifs aux comptes fournisseurs par facture payée,$,FINV317,REM Canada,Montréal,2013,4.62234, ( VFIN100005 + VFIN100075 ) / ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) 
+2447,Coûts d’exploitation relatifs aux comptes fournisseurs par facture payée,$,FINV317,REM Canada,Montréal,2014,4.81932, ( VFIN100005 + VFIN100075 ) / ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) 
+2447,Coûts d’exploitation relatifs aux comptes fournisseurs par facture payée,$,FINV317,REM Canada,Montréal,2015,4.43747, ( VFIN100005 + VFIN100075 ) / ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) 
+2447,Coûts d’exploitation relatifs aux comptes fournisseurs par facture payée,$,FINV317,REM Canada,Montréal,2016,4.09166, ( VFIN100005 + VFIN100075 ) / ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) 
+2447,Coûts d’exploitation relatifs aux comptes fournisseurs par facture payée,$,FINV317,REM Canada,Montréal,2017,4.62021, ( VFIN100005 + VFIN100075 ) / ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) 
+2455,Nombre d’employés affectés aux activités de prévention pour 1 000 habitants,Quantité,FIRE213,REM Canada,Montréal,2015,0.05757,VINC900020 / ( VPOP900004 / 1000 ) 
+2455,Nombre d’employés affectés aux activités de prévention pour 1 000 habitants,Quantité,FIRE213,REM Canada,Montréal,2016,0.05567,VINC900020 / ( VPOP900004 / 1000 ) 
+2455,Nombre d’employés affectés aux activités de prévention pour 1 000 habitants,Quantité,FIRE213,REM Canada,Montréal,2017,0.06074,VINC900020 / ( VPOP900004 / 1000 ) 
+2458,Délai de recouvrement moyen des revenus généraux,Jours,GREV335,REM Canada,Montréal,2012,26.1702,365 / ( VFIN100007 / VFIN100010 ) 
+2458,Délai de recouvrement moyen des revenus généraux,Jours,GREV335,REM Canada,Montréal,2013,26.65332,365 / ( VFIN100007 / VFIN100010 ) 
+2458,Délai de recouvrement moyen des revenus généraux,Jours,GREV335,REM Canada,Montréal,2014,31.94733,365 / ( VFIN100007 / VFIN100010 ) 
+2458,Délai de recouvrement moyen des revenus généraux,Jours,GREV335,REM Canada,Montréal,2015,38.48544,365 / ( VFIN100007 / VFIN100010 ) 
+2458,Délai de recouvrement moyen des revenus généraux,Jours,GREV335,REM Canada,Montréal,2016,34.359,365 / ( VFIN100007 / VFIN100010 ) 
+2458,Délai de recouvrement moyen des revenus généraux,Jours,GREV335,REM Canada,Montréal,2017,49.86247,365 / ( VFIN100007 / VFIN100010 ) 
+2459,Pourcentage de radiation des mauvaises créances,%,GREV325,REM Canada,Montréal,2012,0.00946,VFIN100022 / VFIN100007 
+2459,Pourcentage de radiation des mauvaises créances,%,GREV325,REM Canada,Montréal,2013,0.00404,VFIN100022 / VFIN100007 
+2459,Pourcentage de radiation des mauvaises créances,%,GREV325,REM Canada,Montréal,2014,0.00234,VFIN100022 / VFIN100007 
+2459,Pourcentage de radiation des mauvaises créances,%,GREV325,REM Canada,Montréal,2015,0.00228,VFIN100022 / VFIN100007 
+2459,Pourcentage de radiation des mauvaises créances,%,GREV325,REM Canada,Montréal,2016,0.0025,VFIN100022 / VFIN100007 
+2459,Pourcentage de radiation des mauvaises créances,%,GREV325,REM Canada,Montréal,2017,0.00431,VFIN100022 / VFIN100007 
+2460,Pourcentage de revenus généraux facturés,%,GREV210,REM Canada,Montréal,2012,0.20473,VFIN100007 / VFIN100018 
+2460,Pourcentage de revenus généraux facturés,%,GREV210,REM Canada,Montréal,2013,0.24203,VFIN100007 / VFIN100018 
+2460,Pourcentage de revenus généraux facturés,%,GREV210,REM Canada,Montréal,2014,0.39252,VFIN100007 / VFIN100018 
+2460,Pourcentage de revenus généraux facturés,%,GREV210,REM Canada,Montréal,2015,0.47493,VFIN100007 / VFIN100018 
+2460,Pourcentage de revenus généraux facturés,%,GREV210,REM Canada,Montréal,2016,0.47284,VFIN100007 / VFIN100018 
+2460,Pourcentage de revenus généraux facturés,%,GREV210,REM Canada,Montréal,2017,0.46036,VFIN100007 / VFIN100018 
+2461,"Montant des arriérés fiscaux des exercices antérieurs, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS140,REM Canada,Montréal,2011,0.01661,VFIN100008 / ( VFIN100021 + VFIN100045 ) 
+2461,"Montant des arriérés fiscaux des exercices antérieurs, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS140,REM Canada,Montréal,2012,0.00296,VFIN100008 / ( VFIN100021 + VFIN100045 ) 
+2461,"Montant des arriérés fiscaux des exercices antérieurs, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS140,REM Canada,Montréal,2013,0.00597,VFIN100008 / ( VFIN100021 + VFIN100045 ) 
+2461,"Montant des arriérés fiscaux des exercices antérieurs, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS140,REM Canada,Montréal,2014,0.00623,VFIN100008 / ( VFIN100021 + VFIN100045 ) 
+2461,"Montant des arriérés fiscaux des exercices antérieurs, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS140,REM Canada,Montréal,2015,0.01119,VFIN100008 / ( VFIN100021 + VFIN100045 ) 
+2461,"Montant des arriérés fiscaux des exercices antérieurs, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS140,REM Canada,Montréal,2016,0.00612,VFIN100008 / ( VFIN100021 + VFIN100045 ) 
+2461,"Montant des arriérés fiscaux des exercices antérieurs, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS140,REM Canada,Montréal,2017,0.00736,VFIN100008 / ( VFIN100021 + VFIN100045 ) 
+2462,"Montant des arriérés fiscaux de l’exercice actuel, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS135,REM Canada,Montréal,2011,0.02346,VFIN100009 / ( VFIN100021 + VFIN100045 ) 
+2462,"Montant des arriérés fiscaux de l’exercice actuel, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS135,REM Canada,Montréal,2012,0.02114,VFIN100009 / ( VFIN100021 + VFIN100045 ) 
+2462,"Montant des arriérés fiscaux de l’exercice actuel, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS135,REM Canada,Montréal,2013,0.02161,VFIN100009 / ( VFIN100021 + VFIN100045 ) 
+2462,"Montant des arriérés fiscaux de l’exercice actuel, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS135,REM Canada,Montréal,2014,0.02703,VFIN100009 / ( VFIN100021 + VFIN100045 ) 
+2462,"Montant des arriérés fiscaux de l’exercice actuel, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS135,REM Canada,Montréal,2015,0.02614,VFIN100009 / ( VFIN100021 + VFIN100045 ) 
+2462,"Montant des arriérés fiscaux de l’exercice actuel, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS135,REM Canada,Montréal,2016,0.02225,VFIN100009 / ( VFIN100021 + VFIN100045 ) 
+2462,"Montant des arriérés fiscaux de l’exercice actuel, exprimé en pourcentage du montant de taxes facturées au cours de l’année actuelle",%,TXRS135,REM Canada,Montréal,2017,0.0201,VFIN100009 / ( VFIN100021 + VFIN100045 ) 
+2465,Pourcentage de factures payées dans un délai de 30 jours et moins,%,FINV410,REM Canada,Montréal,2012,0.63343,VFIN900031 / ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) 
+2465,Pourcentage de factures payées dans un délai de 30 jours et moins,%,FINV410,REM Canada,Montréal,2013,0.60959,VFIN900031 / ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) 
+2465,Pourcentage de factures payées dans un délai de 30 jours et moins,%,FINV410,REM Canada,Montréal,2014,0.59228,VFIN900031 / ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) 
+2465,Pourcentage de factures payées dans un délai de 30 jours et moins,%,FINV410,REM Canada,Montréal,2015,0.66886,VFIN900031 / ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) 
+2465,Pourcentage de factures payées dans un délai de 30 jours et moins,%,FINV410,REM Canada,Montréal,2016,0.69846,VFIN900031 / ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) 
+2465,Pourcentage de factures payées dans un délai de 30 jours et moins,%,FINV410,REM Canada,Montréal,2017,0.63161,VFIN900031 / ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) 
+2469,Coût total de l’exploitation des bâtiments de l’administration centrale par pied carré,$,FCLT335T,REM Canada,Montréal,2011,17.17073, ( VIMM100002 + VIMM100001 ) / VIMM900003 
+2469,Coût total de l’exploitation des bâtiments de l’administration centrale par pied carré,$,FCLT335T,REM Canada,Montréal,2012,17.649, ( VIMM100002 + VIMM100001 ) / VIMM900003 
+2469,Coût total de l’exploitation des bâtiments de l’administration centrale par pied carré,$,FCLT335T,REM Canada,Montréal,2013,15.7441, ( VIMM100002 + VIMM100001 ) / VIMM900003 
+2469,Coût total de l’exploitation des bâtiments de l’administration centrale par pied carré,$,FCLT335T,REM Canada,Montréal,2014,14.72415, ( VIMM100002 + VIMM100001 ) / VIMM900003 
+2469,Coût total de l’exploitation des bâtiments de l’administration centrale par pied carré,$,FCLT335T,REM Canada,Montréal,2015,16.46559, ( VIMM100002 + VIMM100001 ) / VIMM900003 
+2469,Coût total de l’exploitation des bâtiments de l’administration centrale par pied carré,$,FCLT335T,REM Canada,Montréal,2016,18.67692, ( VIMM100002 + VIMM100001 ) / VIMM900003 
+2469,Coût total de l’exploitation des bâtiments de l’administration centrale par pied carré,$,FCLT335T,REM Canada,Montréal,2017,20.20813, ( VIMM100002 + VIMM100001 ) / VIMM900003 
+2470,Coûts d’exploitation des programmes et des installations de sports et loisirs par habitant,$,SREC909M,REM Canada,Montréal,2013,116.73979, ( VSPL100005 + VSPL100006 - VSPL100008 + VSPL100009 + VSPL100003 - VSPL100004 ) / VPOP900002
+2470,Coûts d’exploitation des programmes et des installations de sports et loisirs par habitant,$,SREC909M,REM Canada,Montréal,2014,118.24158, ( VSPL100005 + VSPL100006 - VSPL100008 + VSPL100009 + VSPL100003 - VSPL100004 ) / VPOP900002
+2470,Coûts d’exploitation des programmes et des installations de sports et loisirs par habitant,$,SREC909M,REM Canada,Montréal,2015,126.40803, ( VSPL100005 + VSPL100006 - VSPL100008 + VSPL100009 + VSPL100003 - VSPL100004 ) / VPOP900002
+2470,Coûts d’exploitation des programmes et des installations de sports et loisirs par habitant,$,SREC909M,REM Canada,Montréal,2016,128.59942, ( VSPL100005 + VSPL100006 - VSPL100008 + VSPL100009 + VSPL100003 - VSPL100004 ) / VPOP900002
+2470,Coûts d’exploitation des programmes et des installations de sports et loisirs par habitant,$,SREC909M,REM Canada,Montréal,2017,128.25309, ( VSPL100005 + VSPL100006 - VSPL100008 + VSPL100009 + VSPL100003 - VSPL100004 ) / VPOP900002
+2473,Consommation d’énergie de l’administration centrale par pied carré,kWh,FCLT240,REM Canada,Montréal,2011,20.67141, ( VIMM900010 + VIMM900011 ) 
+2473,Consommation d’énergie de l’administration centrale par pied carré,kWh,FCLT240,REM Canada,Montréal,2012,17.76606, ( VIMM900010 + VIMM900011 ) 
+2473,Consommation d’énergie de l’administration centrale par pied carré,kWh,FCLT240,REM Canada,Montréal,2013,17.51335, ( VIMM900010 + VIMM900011 ) 
+2473,Consommation d’énergie de l’administration centrale par pied carré,kWh,FCLT240,REM Canada,Montréal,2014,17.83268, ( VIMM900010 + VIMM900011 ) 
+2473,Consommation d’énergie de l’administration centrale par pied carré,kWh,FCLT240,REM Canada,Montréal,2015,17.78962, ( VIMM900010 + VIMM900011 ) 
+2473,Consommation d’énergie de l’administration centrale par pied carré,kWh,FCLT240,REM Canada,Montréal,2016,17.28831, ( VIMM900010 + VIMM900011 ) 
+2473,Consommation d’énergie de l’administration centrale par pied carré,kWh,FCLT240,REM Canada,Montréal,2017,18.24616, ( VIMM900010 + VIMM900011 ) 
+2474,Superficie des bâtiments de l’administration centrale,pi2,FCLT820,REM Canada,Montréal,2011,245799,VIMM900003 
+2474,Superficie des bâtiments de l’administration centrale,pi2,FCLT820,REM Canada,Montréal,2012,245799,VIMM900003 
+2474,Superficie des bâtiments de l’administration centrale,pi2,FCLT820,REM Canada,Montréal,2013,245799,VIMM900003 
+2474,Superficie des bâtiments de l’administration centrale,pi2,FCLT820,REM Canada,Montréal,2014,245562,VIMM900003 
+2474,Superficie des bâtiments de l’administration centrale,pi2,FCLT820,REM Canada,Montréal,2015,245562,VIMM900003 
+2474,Superficie des bâtiments de l’administration centrale,pi2,FCLT820,REM Canada,Montréal,2016,245562,VIMM900003 
+2474,Superficie des bâtiments de l’administration centrale,pi2,FCLT820,REM Canada,Montréal,2017,245562,VIMM900003 
+2475,Superficie des bâtiments municipaux,pi2,FCLT805,REM Canada,Montréal,2011,27109132,VIMM900006 
+2475,Superficie des bâtiments municipaux,pi2,FCLT805,REM Canada,Montréal,2012,27543520,VIMM900006 
+2475,Superficie des bâtiments municipaux,pi2,FCLT805,REM Canada,Montréal,2013,28395398,VIMM900006 
+2475,Superficie des bâtiments municipaux,pi2,FCLT805,REM Canada,Montréal,2014,28524025,VIMM900006 
+2475,Superficie des bâtiments municipaux,pi2,FCLT805,REM Canada,Montréal,2015,28780045,VIMM900006 
+2475,Superficie des bâtiments municipaux,pi2,FCLT805,REM Canada,Montréal,2016,30015207,VIMM900006 
+2475,Superficie des bâtiments municipaux,pi2,FCLT805,REM Canada,Montréal,2017,30015207,VIMM900006 
+2476,Pourcentage des paiements aux fournisseurs effectués par transferts électroniques,%,FINV245,REM Canada,Montréal,2012,0.00252,VFIN900065 / VFIN900066
+2476,Pourcentage des paiements aux fournisseurs effectués par transferts électroniques,%,FINV245,REM Canada,Montréal,2013,0.01557,VFIN900065 / VFIN900066
+2476,Pourcentage des paiements aux fournisseurs effectués par transferts électroniques,%,FINV245,REM Canada,Montréal,2014,0.05155,VFIN900065 / VFIN900066
+2476,Pourcentage des paiements aux fournisseurs effectués par transferts électroniques,%,FINV245,REM Canada,Montréal,2015,0.14904,VFIN900065 / VFIN900066
+2476,Pourcentage des paiements aux fournisseurs effectués par transferts électroniques,%,FINV245,REM Canada,Montréal,2016,0.32142,VFIN900065 / VFIN900066
+2476,Pourcentage des paiements aux fournisseurs effectués par transferts électroniques,%,FINV245,REM Canada,Montréal,2017,0.38499,VFIN900065 / VFIN900066
+2477,Nombre d’employés affectés aux activités d’éducation du public pour 1 000 habitants,Quantité,FIRE214,REM Canada,Montréal,2015,0.00651,VINC900014 / ( VPOP900004 / 1000 ) 
+2477,Nombre d’employés affectés aux activités d’éducation du public pour 1 000 habitants,Quantité,FIRE214,REM Canada,Montréal,2016,0.00646,VINC900014 / ( VPOP900004 / 1000 ) 
+2477,Nombre d’employés affectés aux activités d’éducation du public pour 1 000 habitants,Quantité,FIRE214,REM Canada,Montréal,2017,0.00642,VINC900014 / ( VPOP900004 / 1000 ) 
+2478,Nombre d’employés affectés aux activités de formation pour 1 000 habitants,Quantité,FIRE216,REM Canada,Montréal,2015,0.01101,VINC900010 / ( VPOP900004 / 1000 ) 
+2478,Nombre d’employés affectés aux activités de formation pour 1 000 habitants,Quantité,FIRE216,REM Canada,Montréal,2016,0.01094,VINC900010 / ( VPOP900004 / 1000 ) 
+2478,Nombre d’employés affectés aux activités de formation pour 1 000 habitants,Quantité,FIRE216,REM Canada,Montréal,2017,0.01185,VINC900010 / ( VPOP900004 / 1000 ) 
+2479,Masse salariale du service des incendies par habitant,$,FIRE220,REM Canada,Montréal,2013,158.63715,VINC100018 / VPOP900004 
+2479,Masse salariale du service des incendies par habitant,$,FIRE220,REM Canada,Montréal,2014,159.36866,VINC100018 / VPOP900004 
+2479,Masse salariale du service des incendies par habitant,$,FIRE220,REM Canada,Montréal,2015,159.46022,VINC100018 / VPOP900004 
+2479,Masse salariale du service des incendies par habitant,$,FIRE220,REM Canada,Montréal,2016,162.12157,VINC100018 / VPOP900004 
+2479,Masse salariale du service des incendies par habitant,$,FIRE220,REM Canada,Montréal,2017,176.24022,VINC100018 / VPOP900004 
+2480,Coût total du service des incendies par heure de véhicules d’incendie en service dotés de personnel,$,FIRE305T,REM Canada,Montréal,2012,302.38303, ( VINC100002 + VINC100022 + VINC100001 ) / VINC900003 
+2480,Coût total du service des incendies par heure de véhicules d’incendie en service dotés de personnel,$,FIRE305T,REM Canada,Montréal,2013,299.65719, ( VINC100002 + VINC100022 + VINC100001 ) / VINC900003 
+2480,Coût total du service des incendies par heure de véhicules d’incendie en service dotés de personnel,$,FIRE305T,REM Canada,Montréal,2014,297.99765, ( VINC100002 + VINC100022 + VINC100001 ) / VINC900003 
+2480,Coût total du service des incendies par heure de véhicules d’incendie en service dotés de personnel,$,FIRE305T,REM Canada,Montréal,2015,297.35603, ( VINC100002 + VINC100022 + VINC100001 ) / VINC900003 
+2480,Coût total du service des incendies par heure de véhicules d’incendie en service dotés de personnel,$,FIRE305T,REM Canada,Montréal,2016,292.45478, ( VINC100002 + VINC100022 + VINC100001 ) / VINC900003 
+2480,Coût total du service des incendies par heure de véhicules d’incendie en service dotés de personnel,$,FIRE305T,REM Canada,Montréal,2017,318.31429, ( VINC100002 + VINC100022 + VINC100001 ) / VINC900003 
+2481,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2010,13018.79576, ( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900006 
+2481,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2011,16364.87816, ( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900006 
+2481,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2012,14125.95156, ( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900006 
+2481,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2013,17068.36471, ( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900006 
+2481,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2014,12482.52595, ( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900006 
+2481,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2015,13284.28819, ( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900006 
+2481,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2016,13254.921, ( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900006 
+2481,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2017,16476.3029, ( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900006 
+2483,Nombre de décès liés à des incendies résidentiels pour 100 000 habitants,Quantité,FIRE110,REM Canada,Montréal,2011,0.87431,VINC900005 / ( VPOP900004 / 100000 ) 
+2483,Nombre de décès liés à des incendies résidentiels pour 100 000 habitants,Quantité,FIRE110,REM Canada,Montréal,2012,0.6259,VINC900005 / ( VPOP900004 / 100000 ) 
+2483,Nombre de décès liés à des incendies résidentiels pour 100 000 habitants,Quantité,FIRE110,REM Canada,Montréal,2013,0.5676,VINC900005 / ( VPOP900004 / 100000 ) 
+2483,Nombre de décès liés à des incendies résidentiels pour 100 000 habitants,Quantité,FIRE110,REM Canada,Montréal,2014,0.45583,VINC900005 / ( VPOP900004 / 100000 ) 
+2483,Nombre de décès liés à des incendies résidentiels pour 100 000 habitants,Quantité,FIRE110,REM Canada,Montréal,2015,0.3504,VINC900005 / ( VPOP900004 / 100000 ) 
+2483,Nombre de décès liés à des incendies résidentiels pour 100 000 habitants,Quantité,FIRE110,REM Canada,Montréal,2016,0.34795,VINC900005 / ( VPOP900004 / 100000 ) 
+2483,Nombre de décès liés à des incendies résidentiels pour 100 000 habitants,Quantité,FIRE110,REM Canada,Montréal,2017,0.64194,VINC900005 / ( VPOP900004 / 100000 ) 
+2484,Nombre d’heures de véhicules d’incendie en service dotés de personnel par habitant,heure,FIRE230,REM Canada,Montréal,2011,0.67579,VINC900003 / VPOP900004 
+2484,Nombre d’heures de véhicules d’incendie en service dotés de personnel par habitant,heure,FIRE230,REM Canada,Montréal,2012,0.68536,VINC900003 / VPOP900004 
+2484,Nombre d’heures de véhicules d’incendie en service dotés de personnel par habitant,heure,FIRE230,REM Canada,Montréal,2013,0.69158,VINC900003 / VPOP900004 
+2484,Nombre d’heures de véhicules d’incendie en service dotés de personnel par habitant,heure,FIRE230,REM Canada,Montréal,2014,0.67883,VINC900003 / VPOP900004 
+2484,Nombre d’heures de véhicules d’incendie en service dotés de personnel par habitant,heure,FIRE230,REM Canada,Montréal,2015,0.67968,VINC900003 / VPOP900004 
+2484,Nombre d’heures de véhicules d’incendie en service dotés de personnel par habitant,heure,FIRE230,REM Canada,Montréal,2016,0.67105,VINC900003 / VPOP900004 
+2484,Nombre d’heures de véhicules d’incendie en service dotés de personnel par habitant,heure,FIRE230,REM Canada,Montréal,2017,0.64885,VINC900003 / VPOP900004 
+2486,Temps d’acheminement des pompiers au 90e percentile (zone urbaine),minutes,FIRE405,REM Canada,Montréal,2011,5.71667,VINC900007 
+2486,Temps d’acheminement des pompiers au 90e percentile (zone urbaine),minutes,FIRE405,REM Canada,Montréal,2012,5.66667,VINC900007 
+2486,Temps d’acheminement des pompiers au 90e percentile (zone urbaine),minutes,FIRE405,REM Canada,Montréal,2013,5.65,VINC900007 
+2486,Temps d’acheminement des pompiers au 90e percentile (zone urbaine),minutes,FIRE405,REM Canada,Montréal,2014,6.33333,VINC900007 
+2486,Temps d’acheminement des pompiers au 90e percentile (zone urbaine),minutes,FIRE405,REM Canada,Montréal,2015,6.3,VINC900007 
+2486,Temps d’acheminement des pompiers au 90e percentile (zone urbaine),minutes,FIRE405,REM Canada,Montréal,2016,6.26667,VINC900007 
+2486,Temps d’acheminement des pompiers au 90e percentile (zone urbaine),minutes,FIRE405,REM Canada,Montréal,2017,6.3,VINC900007 
+2493,Coût total relatif à la gestion des ressources humaines par relevé T4 émis,$,HMRS305T,REM Canada,Montréal,2013,2116.3016, ( VRHU100028 + VRHU100003 + VRHU100027 ) / VRHU900004 
+2493,Coût total relatif à la gestion des ressources humaines par relevé T4 émis,$,HMRS305T,REM Canada,Montréal,2014,1961.2809, ( VRHU100028 + VRHU100003 + VRHU100027 ) / VRHU900004 
+2493,Coût total relatif à la gestion des ressources humaines par relevé T4 émis,$,HMRS305T,REM Canada,Montréal,2015,2050.26994, ( VRHU100028 + VRHU100003 + VRHU100027 ) / VRHU900004 
+2493,Coût total relatif à la gestion des ressources humaines par relevé T4 émis,$,HMRS305T,REM Canada,Montréal,2016,1983.34458, ( VRHU100028 + VRHU100003 + VRHU100027 ) / VRHU900004 
+2493,Coût total relatif à la gestion des ressources humaines par relevé T4 émis,$,HMRS305T,REM Canada,Montréal,2017,1519.24368, ( VRHU100028 + VRHU100003 + VRHU100027 ) / VRHU900004 
+2494,Taux de roulement des employés permanents,%,HMRS406,REM Canada,Montréal,2011,0.03195,VRHU900006 / VRHU900005 
+2494,Taux de roulement des employés permanents,%,HMRS406,REM Canada,Montréal,2012,0.03638,VRHU900006 / VRHU900005 
+2494,Taux de roulement des employés permanents,%,HMRS406,REM Canada,Montréal,2013,0.03828,VRHU900006 / VRHU900005 
+2494,Taux de roulement des employés permanents,%,HMRS406,REM Canada,Montréal,2014,0.0449,VRHU900006 / VRHU900005 
+2494,Taux de roulement des employés permanents,%,HMRS406,REM Canada,Montréal,2015,0.04887,VRHU900006 / VRHU900005 
+2494,Taux de roulement des employés permanents,%,HMRS406,REM Canada,Montréal,2016,0.04965,VRHU900006 / VRHU900005 
+2494,Taux de roulement des employés permanents,%,HMRS406,REM Canada,Montréal,2017,0.05714,VRHU900006 / VRHU900005 
+2495,Nombre d’interventions pour 1 000 habitants,Quantité,FIRE240,REM Canada,Montréal,2013,63.5924,VINC900021 / ( VPOP900004 / 1000 ) 
+2495,Nombre d’interventions pour 1 000 habitants,Quantité,FIRE240,REM Canada,Montréal,2014,63.89257,VINC900021 / ( VPOP900004 / 1000 ) 
+2495,Nombre d’interventions pour 1 000 habitants,Quantité,FIRE240,REM Canada,Montréal,2015,63.59795,VINC900021 / ( VPOP900004 / 1000 ) 
+2495,Nombre d’interventions pour 1 000 habitants,Quantité,FIRE240,REM Canada,Montréal,2016,65.38495,VINC900021 / ( VPOP900004 / 1000 ) 
+2495,Nombre d’interventions pour 1 000 habitants,Quantité,FIRE240,REM Canada,Montréal,2017,65.01963,VINC900021 / ( VPOP900004 / 1000 ) 
+2496,Coût total par espace de stationnement payant appartenant à la municipalité ou exploité par la municipalité,$,PRKG320T,REM Canada,Montréal,2012,1659.31164, ( VSTA100005 + VSTA100004 + VSTA100003 + VSTA100023 + VSTA100025 + VSTA100024 + VSTA100002 + VSTA100022 ) / ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) 
+2496,Coût total par espace de stationnement payant appartenant à la municipalité ou exploité par la municipalité,$,PRKG320T,REM Canada,Montréal,2013,1743.35368, ( VSTA100005 + VSTA100004 + VSTA100003 + VSTA100023 + VSTA100025 + VSTA100024 + VSTA100002 + VSTA100022 ) / ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) 
+2496,Coût total par espace de stationnement payant appartenant à la municipalité ou exploité par la municipalité,$,PRKG320T,REM Canada,Montréal,2014,1718.59137, ( VSTA100005 + VSTA100004 + VSTA100003 + VSTA100023 + VSTA100025 + VSTA100024 + VSTA100002 + VSTA100022 ) / ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) 
+2496,Coût total par espace de stationnement payant appartenant à la municipalité ou exploité par la municipalité,$,PRKG320T,REM Canada,Montréal,2015,1759.83555, ( VSTA100005 + VSTA100004 + VSTA100003 + VSTA100023 + VSTA100025 + VSTA100024 + VSTA100002 + VSTA100022 ) / ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) 
+2496,Coût total par espace de stationnement payant appartenant à la municipalité ou exploité par la municipalité,$,PRKG320T,REM Canada,Montréal,2016,1752.88546, ( VSTA100005 + VSTA100004 + VSTA100003 + VSTA100023 + VSTA100025 + VSTA100024 + VSTA100002 + VSTA100022 ) / ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) 
+2496,Coût total par espace de stationnement payant appartenant à la municipalité ou exploité par la municipalité,$,PRKG320T,REM Canada,Montréal,2017,1746.47515, ( VSTA100005 + VSTA100004 + VSTA100003 + VSTA100023 + VSTA100025 + VSTA100024 + VSTA100002 + VSTA100022 ) / ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) 
+2497,Rapport revenus-coûts des espaces de stationnement payants appartenant à la municipalité ou exploités par la municipalité,Quantité,PRKG340,REM Canada,Montréal,2012,4.00422, ( VSTA100008 + VSTA100021 + VSTA100006 + VSTA100007 + VSTA100017 ) / ( VSTA100005 + VSTA100004 + VSTA100003 + VSTA100023 + VSTA100025 + VSTA100024 ) 
+2497,Rapport revenus-coûts des espaces de stationnement payants appartenant à la municipalité ou exploités par la municipalité,Quantité,PRKG340,REM Canada,Montréal,2013,4.11418, ( VSTA100008 + VSTA100021 + VSTA100006 + VSTA100007 + VSTA100017 ) / ( VSTA100005 + VSTA100004 + VSTA100003 + VSTA100023 + VSTA100025 + VSTA100024 ) 
+2497,Rapport revenus-coûts des espaces de stationnement payants appartenant à la municipalité ou exploités par la municipalité,Quantité,PRKG340,REM Canada,Montréal,2014,4.27092, ( VSTA100008 + VSTA100021 + VSTA100006 + VSTA100007 + VSTA100017 ) / ( VSTA100005 + VSTA100004 + VSTA100003 + VSTA100023 + VSTA100025 + VSTA100024 ) 
+2497,Rapport revenus-coûts des espaces de stationnement payants appartenant à la municipalité ou exploités par la municipalité,Quantité,PRKG340,REM Canada,Montréal,2015,3.97551, ( VSTA100008 + VSTA100021 + VSTA100006 + VSTA100007 + VSTA100017 ) / ( VSTA100005 + VSTA100004 + VSTA100003 + VSTA100023 + VSTA100025 + VSTA100024 ) 
+2497,Rapport revenus-coûts des espaces de stationnement payants appartenant à la municipalité ou exploités par la municipalité,Quantité,PRKG340,REM Canada,Montréal,2016,3.71353, ( VSTA100008 + VSTA100021 + VSTA100006 + VSTA100007 + VSTA100017 ) / ( VSTA100005 + VSTA100004 + VSTA100003 + VSTA100023 + VSTA100025 + VSTA100024 ) 
+2497,Rapport revenus-coûts des espaces de stationnement payants appartenant à la municipalité ou exploités par la municipalité,Quantité,PRKG340,REM Canada,Montréal,2017,3.83188, ( VSTA100008 + VSTA100021 + VSTA100006 + VSTA100007 + VSTA100017 ) / ( VSTA100005 + VSTA100004 + VSTA100003 + VSTA100023 + VSTA100025 + VSTA100024 ) 
+2498,Revenu brut par espace de stationnement payant appartenant à la municipalité ou exploité par la municipalité,$,PRKG305,REM Canada,Montréal,2012,6031.7762, ( VSTA100008 + VSTA100021 + VSTA100006 + VSTA100007 + VSTA100017 ) / ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) 
+2498,Revenu brut par espace de stationnement payant appartenant à la municipalité ou exploité par la municipalité,$,PRKG305,REM Canada,Montréal,2013,6495.69528, ( VSTA100008 + VSTA100021 + VSTA100006 + VSTA100007 + VSTA100017 ) / ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) 
+2498,Revenu brut par espace de stationnement payant appartenant à la municipalité ou exploité par la municipalité,$,PRKG305,REM Canada,Montréal,2014,6594.25522, ( VSTA100008 + VSTA100021 + VSTA100006 + VSTA100007 + VSTA100017 ) / ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) 
+2498,Revenu brut par espace de stationnement payant appartenant à la municipalité ou exploité par la municipalité,$,PRKG305,REM Canada,Montréal,2015,6401.66114, ( VSTA100008 + VSTA100021 + VSTA100006 + VSTA100007 + VSTA100017 ) / ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) 
+2498,Revenu brut par espace de stationnement payant appartenant à la municipalité ou exploité par la municipalité,$,PRKG305,REM Canada,Montréal,2016,6047.5365, ( VSTA100008 + VSTA100021 + VSTA100006 + VSTA100007 + VSTA100017 ) / ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) 
+2498,Revenu brut par espace de stationnement payant appartenant à la municipalité ou exploité par la municipalité,$,PRKG305,REM Canada,Montréal,2017,6303.55956, ( VSTA100008 + VSTA100021 + VSTA100006 + VSTA100007 + VSTA100017 ) / ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) 
+2499,Nombre d’espaces de stationnement payants appartenant à la municipalité ou exploités par la municipalité pour 100 000 habitants,Quantité,PRKG205,REM Canada,Montréal,2011,1425.62326, ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) / ( VPOP900002 / 100000 ) 
+2499,Nombre d’espaces de stationnement payants appartenant à la municipalité ou exploités par la municipalité pour 100 000 habitants,Quantité,PRKG205,REM Canada,Montréal,2012,1480.84656, ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) / ( VPOP900002 / 100000 ) 
+2499,Nombre d’espaces de stationnement payants appartenant à la municipalité ou exploités par la municipalité pour 100 000 habitants,Quantité,PRKG205,REM Canada,Montréal,2013,1468.55651, ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) / ( VPOP900002 / 100000 ) 
+2499,Nombre d’espaces de stationnement payants appartenant à la municipalité ou exploités par la municipalité pour 100 000 habitants,Quantité,PRKG205,REM Canada,Montréal,2014,1432.26406, ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) / ( VPOP900002 / 100000 ) 
+2499,Nombre d’espaces de stationnement payants appartenant à la municipalité ou exploités par la municipalité pour 100 000 habitants,Quantité,PRKG205,REM Canada,Montréal,2015,1408.01605, ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) / ( VPOP900002 / 100000 ) 
+2499,Nombre d’espaces de stationnement payants appartenant à la municipalité ou exploités par la municipalité pour 100 000 habitants,Quantité,PRKG205,REM Canada,Montréal,2016,1381.16102, ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) / ( VPOP900002 / 100000 ) 
+2499,Nombre d’espaces de stationnement payants appartenant à la municipalité ou exploités par la municipalité pour 100 000 habitants,Quantité,PRKG205,REM Canada,Montréal,2017,1366.58455, ( VSTA900010 + VSTA900001 + VSTA900009 + VSTA900020 + VSTA900019 ) / ( VPOP900002 / 100000 ) 
+2500,Coût total des technologies de l’information par équivalent à temps plein (ETP),$,INTN243T,REM Canada,Montréal,2013,6364.65907, ( VTIN100002 + VTIN100009 + VTIN100001 ) / VRHU900007 
+2500,Coût total des technologies de l’information par équivalent à temps plein (ETP),$,INTN243T,REM Canada,Montréal,2014,6117.46911, ( VTIN100002 + VTIN100009 + VTIN100001 ) / VRHU900007 
+2500,Coût total des technologies de l’information par équivalent à temps plein (ETP),$,INTN243T,REM Canada,Montréal,2015,6303.02853, ( VTIN100002 + VTIN100009 + VTIN100001 ) / VRHU900007 
+2500,Coût total des technologies de l’information par équivalent à temps plein (ETP),$,INTN243T,REM Canada,Montréal,2016,6550.70881, ( VTIN100002 + VTIN100009 + VTIN100001 ) / VRHU900007 
+2500,Coût total des technologies de l’information par équivalent à temps plein (ETP),$,INTN243T,REM Canada,Montréal,2017,6661.96454, ( VTIN100002 + VTIN100009 + VTIN100001 ) / VRHU900007 
+2501,Nombre de dispositifs informatiques par équivalent à temps plein (ETP),Quantité,INTN205,REM Canada,Montréal,2011,0.73425, ( VTIN900003 + VTIN900004 + VTIN900005 ) / VRHU900007 
+2501,Nombre de dispositifs informatiques par équivalent à temps plein (ETP),Quantité,INTN205,REM Canada,Montréal,2012,0.80148, ( VTIN900003 + VTIN900004 + VTIN900005 ) / VRHU900007 
+2501,Nombre de dispositifs informatiques par équivalent à temps plein (ETP),Quantité,INTN205,REM Canada,Montréal,2013,0.85169, ( VTIN900003 + VTIN900004 + VTIN900005 ) / VRHU900007 
+2501,Nombre de dispositifs informatiques par équivalent à temps plein (ETP),Quantité,INTN205,REM Canada,Montréal,2014,0.91664, ( VTIN900003 + VTIN900004 + VTIN900005 ) / VRHU900007 
+2501,Nombre de dispositifs informatiques par équivalent à temps plein (ETP),Quantité,INTN205,REM Canada,Montréal,2015,0.97425, ( VTIN900003 + VTIN900004 + VTIN900005 ) / VRHU900007 
+2501,Nombre de dispositifs informatiques par équivalent à temps plein (ETP),Quantité,INTN205,REM Canada,Montréal,2016,0.97611, ( VTIN900003 + VTIN900004 + VTIN900005 ) / VRHU900007 
+2501,Nombre de dispositifs informatiques par équivalent à temps plein (ETP),Quantité,INTN205,REM Canada,Montréal,2017,1.06596, ( VTIN900003 + VTIN900004 + VTIN900005 ) / VRHU900007 
+2502,Coût total de l’entretien hivernal des routes par kilomètre de voie entretenue l’hiver,$,ROAD309T,REM Canada,Montréal,2014,14200.27439, ( VTRA100003 + VTRA100026 + VTRA100001 - VTRA100028 ) / VTRA900008 
+2502,Coût total de l’entretien hivernal des routes par kilomètre de voie entretenue l’hiver,$,ROAD309T,REM Canada,Montréal,2015,15290.84731, ( VTRA100003 + VTRA100026 + VTRA100001 - VTRA100028 ) / VTRA900008 
+2502,Coût total de l’entretien hivernal des routes par kilomètre de voie entretenue l’hiver,$,ROAD309T,REM Canada,Montréal,2016,15189.34531, ( VTRA100003 + VTRA100026 + VTRA100001 - VTRA100028 ) / VTRA900008 
+2502,Coût total de l’entretien hivernal des routes par kilomètre de voie entretenue l’hiver,$,ROAD309T,REM Canada,Montréal,2017,18166.89279, ( VTRA100003 + VTRA100026 + VTRA100001 - VTRA100028 ) / VTRA900008 
+2504,Coût total des voies pavées par kilomètre de voie pavée,$,ROAD307T,REM Canada,Montréal,2014,23978.34074, ( VTRA100004 + VTRA100025 + VTRA100002 ) / VTRA900012 
+2504,Coût total des voies pavées par kilomètre de voie pavée,$,ROAD307T,REM Canada,Montréal,2015,25584.72049, ( VTRA100004 + VTRA100025 + VTRA100002 ) / VTRA900012 
+2504,Coût total des voies pavées par kilomètre de voie pavée,$,ROAD307T,REM Canada,Montréal,2016,27447.14035, ( VTRA100004 + VTRA100025 + VTRA100002 ) / VTRA900012 
+2504,Coût total des voies pavées par kilomètre de voie pavée,$,ROAD307T,REM Canada,Montréal,2017,27576.59802, ( VTRA100004 + VTRA100025 + VTRA100002 ) / VTRA900012 
+2505,"Pourcentage de ponts, ponceaux et viaducs en bon ou très bon état",%,ROAD415M,REM Canada,Montréal,2012,0.72581,VTRA900015 / VTRA900014 
+2505,"Pourcentage de ponts, ponceaux et viaducs en bon ou très bon état",%,ROAD415M,REM Canada,Montréal,2013,0.72204,VTRA900015 / VTRA900014 
+2505,"Pourcentage de ponts, ponceaux et viaducs en bon ou très bon état",%,ROAD415M,REM Canada,Montréal,2014,0.71019,VTRA900015 / VTRA900014 
+2505,"Pourcentage de ponts, ponceaux et viaducs en bon ou très bon état",%,ROAD415M,REM Canada,Montréal,2015,0.71019,VTRA900015 / VTRA900014 
+2505,"Pourcentage de ponts, ponceaux et viaducs en bon ou très bon état",%,ROAD415M,REM Canada,Montréal,2016,0.68831,VTRA900015 / VTRA900014 
+2505,"Pourcentage de ponts, ponceaux et viaducs en bon ou très bon état",%,ROAD415M,REM Canada,Montréal,2017,0.69333,VTRA900015 / VTRA900014 
+2506,Pourcentage de kilomètres de voie pavée en bon ou très bon état,%,ROAD405M,REM Canada,Montréal,2014,0.38157,VTRA900013 / VTRA900012 
+2506,Pourcentage de kilomètres de voie pavée en bon ou très bon état,%,ROAD405M,REM Canada,Montréal,2015,0.28793,VTRA900013 / VTRA900012 
+2506,Pourcentage de kilomètres de voie pavée en bon ou très bon état,%,ROAD405M,REM Canada,Montréal,2016,0.29491,VTRA900013 / VTRA900012 
+2506,Pourcentage de kilomètres de voie pavée en bon ou très bon état,%,ROAD405M,REM Canada,Montréal,2017,0.29661,VTRA900013 / VTRA900012 
+2507,Nombre de véhicules-kilomètres par kilomètre de voie,Quantité,ROAD112,REM Canada,Montréal,2011,1575444.89907,VTRA900016 / ( VTRA900009 + VTRA900010 + VTRA900011 ) 
+2507,Nombre de véhicules-kilomètres par kilomètre de voie,Quantité,ROAD112,REM Canada,Montréal,2012,1527596.80343,VTRA900016 / ( VTRA900009 + VTRA900010 + VTRA900011 ) 
+2507,Nombre de véhicules-kilomètres par kilomètre de voie,Quantité,ROAD112,REM Canada,Montréal,2013,1502402.15155,VTRA900016 / ( VTRA900009 + VTRA900010 + VTRA900011 ) 
+2507,Nombre de véhicules-kilomètres par kilomètre de voie,Quantité,ROAD112,REM Canada,Montréal,2014,1485358.26847,VTRA900016 / ( VTRA900009 + VTRA900010 + VTRA900011 ) 
+2507,Nombre de véhicules-kilomètres par kilomètre de voie,Quantité,ROAD112,REM Canada,Montréal,2015,1425782.73476,VTRA900016 / ( VTRA900009 + VTRA900010 + VTRA900011 ) 
+2507,Nombre de véhicules-kilomètres par kilomètre de voie,Quantité,ROAD112,REM Canada,Montréal,2016,1425782.73476,VTRA900016 / ( VTRA900009 + VTRA900010 + VTRA900011 ) 
+2507,Nombre de véhicules-kilomètres par kilomètre de voie,Quantité,ROAD112,REM Canada,Montréal,2017,1425782.73476,VTRA900016 / ( VTRA900009 + VTRA900010 + VTRA900011 ) 
+2508,Coût total de l’activité de transport collectif par heure de véhicule à revenu,$,TRNT220T,REM Canada,Montréal,2013,179.98781, ( VTRC100001 + VTRC100002 + VTRC100010 ) / VTRC900004
+2508,Coût total de l’activité de transport collectif par heure de véhicule à revenu,$,TRNT220T,REM Canada,Montréal,2014,184.44567, ( VTRC100001 + VTRC100002 + VTRC100010 ) / VTRC900004
+2508,Coût total de l’activité de transport collectif par heure de véhicule à revenu,$,TRNT220T,REM Canada,Montréal,2015,195.91089, ( VTRC100001 + VTRC100002 + VTRC100010 ) / VTRC900004
+2508,Coût total de l’activité de transport collectif par heure de véhicule à revenu,$,TRNT220T,REM Canada,Montréal,2016,197.20574, ( VTRC100001 + VTRC100002 + VTRC100010 ) / VTRC900004
+2508,Coût total de l’activité de transport collectif par heure de véhicule à revenu,$,TRNT220T,REM Canada,Montréal,2017,197.76387, ( VTRC100001 + VTRC100002 + VTRC100010 ) / VTRC900004
+2510,Nombre de déplacements en transport collectif par habitant,Quantité,TRNT106,REM Canada,Montréal,2012,215.18503,VTRC900005 / VPOP900004 
+2510,Nombre de déplacements en transport collectif par habitant,Quantité,TRNT106,REM Canada,Montréal,2013,214.92353,VTRC900005 / VPOP900004 
+2510,Nombre de déplacements en transport collectif par habitant,Quantité,TRNT106,REM Canada,Montréal,2014,211.31375,VTRC900005 / VPOP900004 
+2510,Nombre de déplacements en transport collectif par habitant,Quantité,TRNT106,REM Canada,Montréal,2015,206.90032,VTRC900005 / VPOP900004 
+2510,Nombre de déplacements en transport collectif par habitant,Quantité,TRNT106,REM Canada,Montréal,2016,206.8721,VTRC900005 / VPOP900004 
+2510,Nombre de déplacements en transport collectif par habitant,Quantité,TRNT106,REM Canada,Montréal,2017,212.10511,VTRC900005 / VPOP900004 
+2511,Nombre d’heures commerciales des véhicules à revenu par habitant,heure,TRNT210,REM Canada,Montréal,2012,3.63345,VTRC900004 / VPOP900004 
+2511,Nombre d’heures commerciales des véhicules à revenu par habitant,heure,TRNT210,REM Canada,Montréal,2013,3.59584,VTRC900004 / VPOP900004 
+2511,Nombre d’heures commerciales des véhicules à revenu par habitant,heure,TRNT210,REM Canada,Montréal,2014,3.4212,VTRC900004 / VPOP900004 
+2511,Nombre d’heures commerciales des véhicules à revenu par habitant,heure,TRNT210,REM Canada,Montréal,2015,3.34706,VTRC900004 / VPOP900004 
+2511,Nombre d’heures commerciales des véhicules à revenu par habitant,heure,TRNT210,REM Canada,Montréal,2016,3.35982,VTRC900004 / VPOP900004 
+2511,Nombre d’heures commerciales des véhicules à revenu par habitant,heure,TRNT210,REM Canada,Montréal,2017,3.4694,VTRC900004 / VPOP900004 
+2512,Coût des frais juridiques internes pour 1 000 $ de dépenses municipales,$,LEGL252,REM Canada,Montréal,2012,2.88404, ( VJUS100008 + VJUS900010 ) / ( VADM100045 * 1000 ) 
+2512,Coût des frais juridiques internes pour 1 000 $ de dépenses municipales,$,LEGL252,REM Canada,Montréal,2013,3.21424, ( VJUS100008 + VJUS900010 ) / ( VADM100045 * 1000 ) 
+2512,Coût des frais juridiques internes pour 1 000 $ de dépenses municipales,$,LEGL252,REM Canada,Montréal,2014,3.37804, ( VJUS100008 + VJUS900010 ) / ( VADM100045 * 1000 ) 
+2512,Coût des frais juridiques internes pour 1 000 $ de dépenses municipales,$,LEGL252,REM Canada,Montréal,2015,3.3071, ( VJUS100008 + VJUS900010 ) / ( VADM100045 * 1000 ) 
+2512,Coût des frais juridiques internes pour 1 000 $ de dépenses municipales,$,LEGL252,REM Canada,Montréal,2016,3.26515, ( VJUS100008 + VJUS900010 ) / ( VADM100045 * 1000 ) 
+2512,Coût des frais juridiques internes pour 1 000 $ de dépenses municipales,$,LEGL252,REM Canada,Montréal,2017,2.98165, ( VJUS100008 + VJUS900010 ) / ( VADM100045 * 1000 ) 
+2514,Nombre de dépôts directs et de chèques de paie émis par équivalent à temps plein (ETP) assurant le service de la paie,Quantité,FPRL317A,REM Canada,Montréal,2013,17436.96296,VRHU900008 / VRHU900009 
+2514,Nombre de dépôts directs et de chèques de paie émis par équivalent à temps plein (ETP) assurant le service de la paie,Quantité,FPRL317A,REM Canada,Montréal,2014,18663.46053,VRHU900008 / VRHU900009 
+2514,Nombre de dépôts directs et de chèques de paie émis par équivalent à temps plein (ETP) assurant le service de la paie,Quantité,FPRL317A,REM Canada,Montréal,2015,24481.94737,VRHU900008 / VRHU900009 
+2514,Nombre de dépôts directs et de chèques de paie émis par équivalent à temps plein (ETP) assurant le service de la paie,Quantité,FPRL317A,REM Canada,Montréal,2016,26151.87273,VRHU900008 / VRHU900009 
+2514,Nombre de dépôts directs et de chèques de paie émis par équivalent à temps plein (ETP) assurant le service de la paie,Quantité,FPRL317A,REM Canada,Montréal,2017,24183.82812,VRHU900008 / VRHU900009 
+2515,Coût total du traitement d’eau potable par mégalitre d’eau traité,$,WATR310T,REM Canada,Montréal,2012,115.80065, ( VEAU100025 + VEAU100038 + VEAU100026 - VEAU100039 ) / VEAU900048 
+2515,Coût total du traitement d’eau potable par mégalitre d’eau traité,$,WATR310T,REM Canada,Montréal,2013,121.5699, ( VEAU100025 + VEAU100038 + VEAU100026 - VEAU100039 ) / VEAU900048 
+2515,Coût total du traitement d’eau potable par mégalitre d’eau traité,$,WATR310T,REM Canada,Montréal,2014,117.05756, ( VEAU100025 + VEAU100038 + VEAU100026 - VEAU100039 ) / VEAU900048 
+2515,Coût total du traitement d’eau potable par mégalitre d’eau traité,$,WATR310T,REM Canada,Montréal,2015,121.2093, ( VEAU100025 + VEAU100038 + VEAU100026 - VEAU100039 ) / VEAU900048 
+2515,Coût total du traitement d’eau potable par mégalitre d’eau traité,$,WATR310T,REM Canada,Montréal,2016,137.12906, ( VEAU100025 + VEAU100038 + VEAU100026 - VEAU100039 ) / VEAU900048 
+2515,Coût total du traitement d’eau potable par mégalitre d’eau traité,$,WATR310T,REM Canada,Montréal,2017,148.34281, ( VEAU100025 + VEAU100038 + VEAU100026 - VEAU100039 ) / VEAU900048 
+2516,Coût des heures de travail pour les avocats salariés,$,LEGL315,REM Canada,Montréal,2012,150.3534, ( VJUS100008 + VJUS900010 ) / VADM900008 
+2516,Coût des heures de travail pour les avocats salariés,$,LEGL315,REM Canada,Montréal,2013,156.93968, ( VJUS100008 + VJUS900010 ) / VADM900008 
+2516,Coût des heures de travail pour les avocats salariés,$,LEGL315,REM Canada,Montréal,2014,141.13244, ( VJUS100008 + VJUS900010 ) / VADM900008 
+2516,Coût des heures de travail pour les avocats salariés,$,LEGL315,REM Canada,Montréal,2015,130.41042, ( VJUS100008 + VJUS900010 ) / VADM900008 
+2516,Coût des heures de travail pour les avocats salariés,$,LEGL315,REM Canada,Montréal,2016,138.38326, ( VJUS100008 + VJUS900010 ) / VADM900008 
+2516,Coût des heures de travail pour les avocats salariés,$,LEGL315,REM Canada,Montréal,2017,137.67331, ( VJUS100008 + VJUS900010 ) / VADM900008 
+2519,Coûts d’exploitation pour effectuer un dépôt direct ou émettre un chèque de paie,$,FPRL306A,REM Canada,Montréal,2013,4.75386, ( VRHU100010 + VRHU100029 ) / VRHU900008 
+2519,Coûts d’exploitation pour effectuer un dépôt direct ou émettre un chèque de paie,$,FPRL306A,REM Canada,Montréal,2014,5.57485, ( VRHU100010 + VRHU100029 ) / VRHU900008 
+2519,Coûts d’exploitation pour effectuer un dépôt direct ou émettre un chèque de paie,$,FPRL306A,REM Canada,Montréal,2015,5.00259, ( VRHU100010 + VRHU100029 ) / VRHU900008 
+2519,Coûts d’exploitation pour effectuer un dépôt direct ou émettre un chèque de paie,$,FPRL306A,REM Canada,Montréal,2016,4.37551, ( VRHU100010 + VRHU100029 ) / VRHU900008 
+2519,Coûts d’exploitation pour effectuer un dépôt direct ou émettre un chèque de paie,$,FPRL306A,REM Canada,Montréal,2017,4.20873, ( VRHU100010 + VRHU100029 ) / VRHU900008 
+2520,Coût total du service des incendies par sortie de véhicule,$,FIRE315T,REM Canada,Montréal,2015,1674.99157, ( VINC100002 + VINC100022 + VINC100001 ) / VINC900019 
+2520,Coût total du service des incendies par sortie de véhicule,$,FIRE315T,REM Canada,Montréal,2016,1645.09239, ( VINC100002 + VINC100022 + VINC100001 ) / VINC900019 
+2520,Coût total du service des incendies par sortie de véhicule,$,FIRE315T,REM Canada,Montréal,2017,1725.24513, ( VINC100002 + VINC100022 + VINC100001 ) / VINC900019 
+2523,Coût total des bibliothèques par utilisation,$,PLIB305T,REM Canada,Montréal,2013,3.51153, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 + VBIB100012 + VBIB100048 ) / ( VBIB900013 + VBIB900049 + VBIB900014 + VBIB900050 + VBIB900015 + VBIB900004 + VBIB900016 + VBIB900056 + VBIB900017 + VBIB900057 + VBIB900018 + VBIB900058 + VBIB900019 + VBIB900005 + VBIB900020 + VBIB900032 + VBIB900021 + VBIB900033 + VBIB900022 + VBIB900034 + VBIB900023 + VBIB900035 + VBIB900024 + VBIB900059 + VBIB900025 + VBIB900060 ) 
+2523,Coût total des bibliothèques par utilisation,$,PLIB305T,REM Canada,Montréal,2014,3.26245, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 + VBIB100012 + VBIB100048 ) / ( VBIB900013 + VBIB900049 + VBIB900014 + VBIB900050 + VBIB900015 + VBIB900004 + VBIB900016 + VBIB900056 + VBIB900017 + VBIB900057 + VBIB900018 + VBIB900058 + VBIB900019 + VBIB900005 + VBIB900020 + VBIB900032 + VBIB900021 + VBIB900033 + VBIB900022 + VBIB900034 + VBIB900023 + VBIB900035 + VBIB900024 + VBIB900059 + VBIB900025 + VBIB900060 ) 
+2523,Coût total des bibliothèques par utilisation,$,PLIB305T,REM Canada,Montréal,2015,3.21398, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 + VBIB100012 + VBIB100048 ) / ( VBIB900013 + VBIB900049 + VBIB900014 + VBIB900050 + VBIB900015 + VBIB900004 + VBIB900016 + VBIB900056 + VBIB900017 + VBIB900057 + VBIB900018 + VBIB900058 + VBIB900019 + VBIB900005 + VBIB900020 + VBIB900032 + VBIB900021 + VBIB900033 + VBIB900022 + VBIB900034 + VBIB900023 + VBIB900035 + VBIB900024 + VBIB900059 + VBIB900025 + VBIB900060 ) 
+2523,Coût total des bibliothèques par utilisation,$,PLIB305T,REM Canada,Montréal,2016,3.20072, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 + VBIB100012 + VBIB100048 ) / ( VBIB900013 + VBIB900049 + VBIB900014 + VBIB900050 + VBIB900015 + VBIB900004 + VBIB900016 + VBIB900056 + VBIB900017 + VBIB900057 + VBIB900018 + VBIB900058 + VBIB900019 + VBIB900005 + VBIB900020 + VBIB900032 + VBIB900021 + VBIB900033 + VBIB900022 + VBIB900034 + VBIB900023 + VBIB900035 + VBIB900024 + VBIB900059 + VBIB900025 + VBIB900060 ) 
+2523,Coût total des bibliothèques par utilisation,$,PLIB305T,REM Canada,Montréal,2017,2.86133, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 + VBIB100012 + VBIB100048 ) / ( VBIB900013 + VBIB900049 + VBIB900014 + VBIB900050 + VBIB900015 + VBIB900004 + VBIB900016 + VBIB900056 + VBIB900017 + VBIB900057 + VBIB900018 + VBIB900058 + VBIB900019 + VBIB900005 + VBIB900020 + VBIB900032 + VBIB900021 + VBIB900033 + VBIB900022 + VBIB900034 + VBIB900023 + VBIB900035 + VBIB900024 + VBIB900059 + VBIB900025 + VBIB900060 ) 
+2524,Nombre total d’utilisations des bibliothèques par habitant,Quantité,PLIB105M,REM Canada,Montréal,2011,0, ( VBIB900013 + VBIB900049 + VBIB900014 + VBIB900050 + VBIB900015 + VBIB900004 + VBIB900016 + VBIB900056 + VBIB900017 + VBIB900057 + VBIB900018 + VBIB900058 + VBIB900019 + VBIB900005 + VBIB900020 + VBIB900032 + VBIB900021 + VBIB900033 + VBIB900022 + VBIB900034 + VBIB900023 + VBIB900035 + VBIB900024 + VBIB900059 + VBIB900025 + VBIB900060 ) / VPOP900002 
+2524,Nombre total d’utilisations des bibliothèques par habitant,Quantité,PLIB105M,REM Canada,Montréal,2012,16.18339, ( VBIB900013 + VBIB900049 + VBIB900014 + VBIB900050 + VBIB900015 + VBIB900004 + VBIB900016 + VBIB900056 + VBIB900017 + VBIB900057 + VBIB900018 + VBIB900058 + VBIB900019 + VBIB900005 + VBIB900020 + VBIB900032 + VBIB900021 + VBIB900033 + VBIB900022 + VBIB900034 + VBIB900023 + VBIB900035 + VBIB900024 + VBIB900059 + VBIB900025 + VBIB900060 ) / VPOP900002 
+2524,Nombre total d’utilisations des bibliothèques par habitant,Quantité,PLIB105M,REM Canada,Montréal,2013,16.87479, ( VBIB900013 + VBIB900049 + VBIB900014 + VBIB900050 + VBIB900015 + VBIB900004 + VBIB900016 + VBIB900056 + VBIB900017 + VBIB900057 + VBIB900018 + VBIB900058 + VBIB900019 + VBIB900005 + VBIB900020 + VBIB900032 + VBIB900021 + VBIB900033 + VBIB900022 + VBIB900034 + VBIB900023 + VBIB900035 + VBIB900024 + VBIB900059 + VBIB900025 + VBIB900060 ) / VPOP900002 
+2524,Nombre total d’utilisations des bibliothèques par habitant,Quantité,PLIB105M,REM Canada,Montréal,2014,17.32549, ( VBIB900013 + VBIB900049 + VBIB900014 + VBIB900050 + VBIB900015 + VBIB900004 + VBIB900016 + VBIB900056 + VBIB900017 + VBIB900057 + VBIB900018 + VBIB900058 + VBIB900019 + VBIB900005 + VBIB900020 + VBIB900032 + VBIB900021 + VBIB900033 + VBIB900022 + VBIB900034 + VBIB900023 + VBIB900035 + VBIB900024 + VBIB900059 + VBIB900025 + VBIB900060 ) / VPOP900002 
+2524,Nombre total d’utilisations des bibliothèques par habitant,Quantité,PLIB105M,REM Canada,Montréal,2015,24.95233, ( VBIB900013 + VBIB900049 + VBIB900014 + VBIB900050 + VBIB900015 + VBIB900004 + VBIB900016 + VBIB900056 + VBIB900017 + VBIB900057 + VBIB900018 + VBIB900058 + VBIB900019 + VBIB900005 + VBIB900020 + VBIB900032 + VBIB900021 + VBIB900033 + VBIB900022 + VBIB900034 + VBIB900023 + VBIB900035 + VBIB900024 + VBIB900059 + VBIB900025 + VBIB900060 ) / VPOP900002 
+2524,Nombre total d’utilisations des bibliothèques par habitant,Quantité,PLIB105M,REM Canada,Montréal,2016,25.54213, ( VBIB900013 + VBIB900049 + VBIB900014 + VBIB900050 + VBIB900015 + VBIB900004 + VBIB900016 + VBIB900056 + VBIB900017 + VBIB900057 + VBIB900018 + VBIB900058 + VBIB900019 + VBIB900005 + VBIB900020 + VBIB900032 + VBIB900021 + VBIB900033 + VBIB900022 + VBIB900034 + VBIB900023 + VBIB900035 + VBIB900024 + VBIB900059 + VBIB900025 + VBIB900060 ) / VPOP900002 
+2524,Nombre total d’utilisations des bibliothèques par habitant,Quantité,PLIB105M,REM Canada,Montréal,2017,27.17944, ( VBIB900013 + VBIB900049 + VBIB900014 + VBIB900050 + VBIB900015 + VBIB900004 + VBIB900016 + VBIB900056 + VBIB900017 + VBIB900057 + VBIB900018 + VBIB900058 + VBIB900019 + VBIB900005 + VBIB900020 + VBIB900032 + VBIB900021 + VBIB900033 + VBIB900022 + VBIB900034 + VBIB900023 + VBIB900035 + VBIB900024 + VBIB900059 + VBIB900025 + VBIB900060 ) / VPOP900002 
+2527,Nombre total de documents en bibliothèque par habitant,Quantité,PLIB205,REM Canada,Montréal,2012,2.49888, ( VBIB900026 + VBIB900061 ) / VPOP900002
+2527,Nombre total de documents en bibliothèque par habitant,Quantité,PLIB205,REM Canada,Montréal,2013,2.53615, ( VBIB900026 + VBIB900061 ) / VPOP900002
+2527,Nombre total de documents en bibliothèque par habitant,Quantité,PLIB205,REM Canada,Montréal,2014,2.4467, ( VBIB900026 + VBIB900061 ) / VPOP900002
+2527,Nombre total de documents en bibliothèque par habitant,Quantité,PLIB205,REM Canada,Montréal,2015,4.4193, ( VBIB900026 + VBIB900061 ) / VPOP900002
+2527,Nombre total de documents en bibliothèque par habitant,Quantité,PLIB205,REM Canada,Montréal,2016,4.60755, ( VBIB900026 + VBIB900061 ) / VPOP900002
+2527,Nombre total de documents en bibliothèque par habitant,Quantité,PLIB205,REM Canada,Montréal,2017,4.58034, ( VBIB900026 + VBIB900061 ) / VPOP900002
+2528,Moyenne de prêts par document en bibliothèque (roulement),Quantité,PLIB405,REM Canada,Montréal,2011,0, ( VBIB900013 + VBIB900049 + VBIB900018 + VBIB900058 ) / ( VBIB900027 + VBIB900006 ) 
+2528,Moyenne de prêts par document en bibliothèque (roulement),Quantité,PLIB405,REM Canada,Montréal,2012,2.69793, ( VBIB900013 + VBIB900049 + VBIB900018 + VBIB900058 ) / ( VBIB900027 + VBIB900006 ) 
+2528,Moyenne de prêts par document en bibliothèque (roulement),Quantité,PLIB405,REM Canada,Montréal,2013,2.66518, ( VBIB900013 + VBIB900049 + VBIB900018 + VBIB900058 ) / ( VBIB900027 + VBIB900006 ) 
+2528,Moyenne de prêts par document en bibliothèque (roulement),Quantité,PLIB405,REM Canada,Montréal,2014,2.80259, ( VBIB900013 + VBIB900049 + VBIB900018 + VBIB900058 ) / ( VBIB900027 + VBIB900006 ) 
+2528,Moyenne de prêts par document en bibliothèque (roulement),Quantité,PLIB405,REM Canada,Montréal,2015,2.48961, ( VBIB900013 + VBIB900049 + VBIB900018 + VBIB900058 ) / ( VBIB900027 + VBIB900006 ) 
+2528,Moyenne de prêts par document en bibliothèque (roulement),Quantité,PLIB405,REM Canada,Montréal,2016,2.5288, ( VBIB900013 + VBIB900049 + VBIB900018 + VBIB900058 ) / ( VBIB900027 + VBIB900006 ) 
+2528,Moyenne de prêts par document en bibliothèque (roulement),Quantité,PLIB405,REM Canada,Montréal,2017,2.64778, ( VBIB900013 + VBIB900049 + VBIB900018 + VBIB900058 ) / ( VBIB900027 + VBIB900006 ) 
+2529,Coût de distribution de l’eau potable par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2011,24548.14815, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2529,Coût de distribution de l’eau potable par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2012,23538.88889, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2529,Coût de distribution de l’eau potable par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2013,28113.35718, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2529,Coût de distribution de l’eau potable par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2014,29052.64352, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2529,Coût de distribution de l’eau potable par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2015,31398.457, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2529,Coût de distribution de l’eau potable par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2016,31442.83122, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2529,Coût de distribution de l’eau potable par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2017,33082.9932, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2530,Mégalitres d’eaux usées traités pour 100 000 habitants,Quantité,WWTR210,REM Canada,Montréal,2011,55706.31256,VEAU900014 / VPOP900002 * 100000
+2530,Mégalitres d’eaux usées traités pour 100 000 habitants,Quantité,WWTR210,REM Canada,Montréal,2012,48764.23429,VEAU900014 / VPOP900002 * 100000
+2530,Mégalitres d’eaux usées traités pour 100 000 habitants,Quantité,WWTR210,REM Canada,Montréal,2013,51061.0304,VEAU900014 / VPOP900002 * 100000
+2530,Mégalitres d’eaux usées traités pour 100 000 habitants,Quantité,WWTR210,REM Canada,Montréal,2014,45363.77,VEAU900014 / VPOP900002 * 100000
+2530,Mégalitres d’eaux usées traités pour 100 000 habitants,Quantité,WWTR210,REM Canada,Montréal,2015,41259.66752,VEAU900014 / VPOP900002 * 100000
+2530,Mégalitres d’eaux usées traités pour 100 000 habitants,Quantité,WWTR210,REM Canada,Montréal,2016,42574.99932,VEAU900014 / VPOP900002 * 100000
+2530,Mégalitres d’eaux usées traités pour 100 000 habitants,Quantité,WWTR210,REM Canada,Montréal,2017,43135.42805,VEAU900014 / VPOP900002 * 100000
+2532,Coût total des activités culturelles par habitant,$,CLTR205T,REM Canada,Montréal,2013,41.60176, ( VCLT100004 + VCLT100014 + VCLT100005 - VCLT100015 ) / VPOP900004 
+2532,Coût total des activités culturelles par habitant,$,CLTR205T,REM Canada,Montréal,2014,45.06626, ( VCLT100004 + VCLT100014 + VCLT100005 - VCLT100015 ) / VPOP900004 
+2532,Coût total des activités culturelles par habitant,$,CLTR205T,REM Canada,Montréal,2015,45.99648, ( VCLT100004 + VCLT100014 + VCLT100005 - VCLT100015 ) / VPOP900004 
+2532,Coût total des activités culturelles par habitant,$,CLTR205T,REM Canada,Montréal,2016,46.9319, ( VCLT100004 + VCLT100014 + VCLT100005 - VCLT100015 ) / VPOP900004 
+2532,Coût total des activités culturelles par habitant,$,CLTR205T,REM Canada,Montréal,2017,52.12489, ( VCLT100004 + VCLT100014 + VCLT100005 - VCLT100015 ) / VPOP900004 
+2534,Coût total du traitement et de la distribution/transmission d’eau potable par mégalitre d’eau traité,$,WATR315T,REM Canada,Montréal,2012,302.20544, ( VEAU100049 + VEAU100036 + VEAU100050 - VEAU100037 + VEAU100025 + VEAU100038 + VEAU100026 - VEAU100039 ) / VEAU900048 
+2534,Coût total du traitement et de la distribution/transmission d’eau potable par mégalitre d’eau traité,$,WATR315T,REM Canada,Montréal,2013,347.35046, ( VEAU100049 + VEAU100036 + VEAU100050 - VEAU100037 + VEAU100025 + VEAU100038 + VEAU100026 - VEAU100039 ) / VEAU900048 
+2534,Coût total du traitement et de la distribution/transmission d’eau potable par mégalitre d’eau traité,$,WATR315T,REM Canada,Montréal,2014,359.54181, ( VEAU100049 + VEAU100036 + VEAU100050 - VEAU100037 + VEAU100025 + VEAU100038 + VEAU100026 - VEAU100039 ) / VEAU900048 
+2534,Coût total du traitement et de la distribution/transmission d’eau potable par mégalitre d’eau traité,$,WATR315T,REM Canada,Montréal,2015,410.20518, ( VEAU100049 + VEAU100036 + VEAU100050 - VEAU100037 + VEAU100025 + VEAU100038 + VEAU100026 - VEAU100039 ) / VEAU900048 
+2534,Coût total du traitement et de la distribution/transmission d’eau potable par mégalitre d’eau traité,$,WATR315T,REM Canada,Montréal,2016,428.32453, ( VEAU100049 + VEAU100036 + VEAU100050 - VEAU100037 + VEAU100025 + VEAU100038 + VEAU100026 - VEAU100039 ) / VEAU900048 
+2534,Coût total du traitement et de la distribution/transmission d’eau potable par mégalitre d’eau traité,$,WATR315T,REM Canada,Montréal,2017,465.89346, ( VEAU100049 + VEAU100036 + VEAU100050 - VEAU100037 + VEAU100025 + VEAU100038 + VEAU100026 - VEAU100039 ) / VEAU900048 
+2535,Coût total du système de transport/collecte des eaux usées par kilomètre de conduite,$,WWTR305T,REM Canada,Montréal,2012,19706.60765, ( VEAU100044 + VEAU100040 + VEAU100045 - VEAU100029 ) / VEAU900043 
+2535,Coût total du système de transport/collecte des eaux usées par kilomètre de conduite,$,WWTR305T,REM Canada,Montréal,2013,19682.45448, ( VEAU100044 + VEAU100040 + VEAU100045 - VEAU100029 ) / VEAU900043 
+2535,Coût total du système de transport/collecte des eaux usées par kilomètre de conduite,$,WWTR305T,REM Canada,Montréal,2014,18025.97565, ( VEAU100044 + VEAU100040 + VEAU100045 - VEAU100029 ) / VEAU900043 
+2535,Coût total du système de transport/collecte des eaux usées par kilomètre de conduite,$,WWTR305T,REM Canada,Montréal,2015,18888.21299, ( VEAU100044 + VEAU100040 + VEAU100045 - VEAU100029 ) / VEAU900043 
+2535,Coût total du système de transport/collecte des eaux usées par kilomètre de conduite,$,WWTR305T,REM Canada,Montréal,2016,20238.87253, ( VEAU100044 + VEAU100040 + VEAU100045 - VEAU100029 ) / VEAU900043 
+2535,Coût total du système de transport/collecte des eaux usées par kilomètre de conduite,$,WWTR305T,REM Canada,Montréal,2017,21744.60943, ( VEAU100044 + VEAU100040 + VEAU100045 - VEAU100029 ) / VEAU900043 
+2536,Coût total du système de traitement des eaux usées par mégalitre d’eau traité,$,WWTR310T,REM Canada,Montréal,2012,174.15663, ( VEAU100046 + VEAU100041 + VEAU100047 - VEAU100042 ) / VEAU900014 
+2536,Coût total du système de traitement des eaux usées par mégalitre d’eau traité,$,WWTR310T,REM Canada,Montréal,2013,163.47263, ( VEAU100046 + VEAU100041 + VEAU100047 - VEAU100042 ) / VEAU900014 
+2536,Coût total du système de traitement des eaux usées par mégalitre d’eau traité,$,WWTR310T,REM Canada,Montréal,2014,139.81271, ( VEAU100046 + VEAU100041 + VEAU100047 - VEAU100042 ) / VEAU900014 
+2536,Coût total du système de traitement des eaux usées par mégalitre d’eau traité,$,WWTR310T,REM Canada,Montréal,2015,156.19905, ( VEAU100046 + VEAU100041 + VEAU100047 - VEAU100042 ) / VEAU900014 
+2536,Coût total du système de traitement des eaux usées par mégalitre d’eau traité,$,WWTR310T,REM Canada,Montréal,2016,152.88185, ( VEAU100046 + VEAU100041 + VEAU100047 - VEAU100042 ) / VEAU900014 
+2536,Coût total du système de traitement des eaux usées par mégalitre d’eau traité,$,WWTR310T,REM Canada,Montréal,2017,147.93968, ( VEAU100046 + VEAU100041 + VEAU100047 - VEAU100042 ) / VEAU900014 
+2537,Coût total du système de traitement et de transport/collecte des eaux usées par mégalitre d’eau traité,$,WWTR315T,REM Canada,Montréal,2012,269.86464, ( ( VEAU100044 + VEAU100040 + VEAU100045 - VEAU100029 ) + ( VEAU100046 + VEAU100041 + VEAU100047 - VEAU100042 ) ) / VEAU900014 
+2537,Coût total du système de traitement et de transport/collecte des eaux usées par mégalitre d’eau traité,$,WWTR315T,REM Canada,Montréal,2013,253.72997, ( ( VEAU100044 + VEAU100040 + VEAU100045 - VEAU100029 ) + ( VEAU100046 + VEAU100041 + VEAU100047 - VEAU100042 ) ) / VEAU900014 
+2537,Coût total du système de traitement et de transport/collecte des eaux usées par mégalitre d’eau traité,$,WWTR315T,REM Canada,Montréal,2014,234.4002, ( ( VEAU100044 + VEAU100040 + VEAU100045 - VEAU100029 ) + ( VEAU100046 + VEAU100041 + VEAU100047 - VEAU100042 ) ) / VEAU900014 
+2537,Coût total du système de traitement et de transport/collecte des eaux usées par mégalitre d’eau traité,$,WWTR315T,REM Canada,Montréal,2015,263.86743, ( ( VEAU100044 + VEAU100040 + VEAU100045 - VEAU100029 ) + ( VEAU100046 + VEAU100041 + VEAU100047 - VEAU100042 ) ) / VEAU900014 
+2537,Coût total du système de traitement et de transport/collecte des eaux usées par mégalitre d’eau traité,$,WWTR315T,REM Canada,Montréal,2016,263.92191, ( ( VEAU100044 + VEAU100040 + VEAU100045 - VEAU100029 ) + ( VEAU100046 + VEAU100041 + VEAU100047 - VEAU100042 ) ) / VEAU900014 
+2537,Coût total du système de traitement et de transport/collecte des eaux usées par mégalitre d’eau traité,$,WWTR315T,REM Canada,Montréal,2017,264.79821, ( ( VEAU100044 + VEAU100040 + VEAU100045 - VEAU100029 ) + ( VEAU100046 + VEAU100041 + VEAU100047 - VEAU100042 ) ) / VEAU900014 
+2538,Âge moyen des conduites d’eau potable,Quantité,WATR120,REM Canada,Montréal,2011,56.1,VEAU900019 
+2538,Âge moyen des conduites d’eau potable,Quantité,WATR120,REM Canada,Montréal,2012,57,VEAU900019 
+2538,Âge moyen des conduites d’eau potable,Quantité,WATR120,REM Canada,Montréal,2013,58,VEAU900019 
+2538,Âge moyen des conduites d’eau potable,Quantité,WATR120,REM Canada,Montréal,2014,59.4,VEAU900019 
+2538,Âge moyen des conduites d’eau potable,Quantité,WATR120,REM Canada,Montréal,2015,60,VEAU900019 
+2538,Âge moyen des conduites d’eau potable,Quantité,WATR120,REM Canada,Montréal,2016,60.7,VEAU900019 
+2538,Âge moyen des conduites d’eau potable,Quantité,WATR120,REM Canada,Montréal,2017,60.4,VEAU900019 
+2539,Mégalitres d’eau potable traités pour 100 000 habitants,Quantité,WATR210,REM Canada,Montréal,2011,38394.75326,VEAU900048 / VPOP900002 * 100000
+2539,Mégalitres d’eau potable traités pour 100 000 habitants,Quantité,WATR210,REM Canada,Montréal,2012,38901.27511,VEAU900048 / VPOP900002 * 100000
+2539,Mégalitres d’eau potable traités pour 100 000 habitants,Quantité,WATR210,REM Canada,Montréal,2013,37630.01587,VEAU900048 / VPOP900002 * 100000
+2539,Mégalitres d’eau potable traités pour 100 000 habitants,Quantité,WATR210,REM Canada,Montréal,2014,32857.16349,VEAU900048 / VPOP900002 * 100000
+2539,Mégalitres d’eau potable traités pour 100 000 habitants,Quantité,WATR210,REM Canada,Montréal,2015,30793.52711,VEAU900048 / VPOP900002 * 100000
+2539,Mégalitres d’eau potable traités pour 100 000 habitants,Quantité,WATR210,REM Canada,Montréal,2016,29811.63515,VEAU900048 / VPOP900002 * 100000
+2539,Mégalitres d’eau potable traités pour 100 000 habitants,Quantité,WATR210,REM Canada,Montréal,2017,28540.82422,VEAU900048 / VPOP900002 * 100000
+2540,Âge moyen des conduites d’eaux usées,Quantité,WWTR105,REM Canada,Montréal,2011,52,VEAU900021 
+2540,Âge moyen des conduites d’eaux usées,Quantité,WWTR105,REM Canada,Montréal,2012,52.9,VEAU900021 
+2540,Âge moyen des conduites d’eaux usées,Quantité,WWTR105,REM Canada,Montréal,2013,53.9,VEAU900021 
+2540,Âge moyen des conduites d’eaux usées,Quantité,WWTR105,REM Canada,Montréal,2014,58.9,VEAU900021 
+2540,Âge moyen des conduites d’eaux usées,Quantité,WWTR105,REM Canada,Montréal,2015,59.6,VEAU900021 
+2540,Âge moyen des conduites d’eaux usées,Quantité,WWTR105,REM Canada,Montréal,2016,60.5,VEAU900021 
+2540,Âge moyen des conduites d’eaux usées,Quantité,WWTR105,REM Canada,Montréal,2017,60.5,VEAU900021 
+2541,Nombre de bris par 100 kilomètres de conduite,Quantité,WATR410M,REM Canada,Montréal,2010,20.32407,VEAU900020 / VEAU900003 * 100
+2541,Nombre de bris par 100 kilomètres de conduite,Quantité,WATR410M,REM Canada,Montréal,2011,23.21759,VEAU900020 / VEAU900003 * 100
+2541,Nombre de bris par 100 kilomètres de conduite,Quantité,WATR410M,REM Canada,Montréal,2012,21.01852,VEAU900020 / VEAU900003 * 100
+2541,Nombre de bris par 100 kilomètres de conduite,Quantité,WATR410M,REM Canada,Montréal,2013,21.25,VEAU900020 / VEAU900003 * 100
+2541,Nombre de bris par 100 kilomètres de conduite,Quantité,WATR410M,REM Canada,Montréal,2014,24.08897,VEAU900020 / VEAU900003 * 100
+2541,Nombre de bris par 100 kilomètres de conduite,Quantité,WATR410M,REM Canada,Montréal,2015,22.95315,VEAU900020 / VEAU900003 * 100
+2541,Nombre de bris par 100 kilomètres de conduite,Quantité,WATR410M,REM Canada,Montréal,2016,18.74261,VEAU900020 / VEAU900003 * 100
+2541,Nombre de bris par 100 kilomètres de conduite,Quantité,WATR410M,REM Canada,Montréal,2017,18.8327,VEAU900020 / VEAU900003 * 100
+2542,Pourcentage estimé des eaux usées ayant échappé au système de traitement,%,WWTR110M,REM Canada,Montréal,2011,0.01125,VEAU900022 / ( VEAU900022 + VEAU900014 ) 
+2542,Pourcentage estimé des eaux usées ayant échappé au système de traitement,%,WWTR110M,REM Canada,Montréal,2012,0.00589,VEAU900022 / ( VEAU900022 + VEAU900014 ) 
+2542,Pourcentage estimé des eaux usées ayant échappé au système de traitement,%,WWTR110M,REM Canada,Montréal,2013,0.00614,VEAU900022 / ( VEAU900022 + VEAU900014 ) 
+2542,Pourcentage estimé des eaux usées ayant échappé au système de traitement,%,WWTR110M,REM Canada,Montréal,2014,0.00591,VEAU900022 / ( VEAU900022 + VEAU900014 ) 
+2542,Pourcentage estimé des eaux usées ayant échappé au système de traitement,%,WWTR110M,REM Canada,Montréal,2015,0.01099,VEAU900022 / ( VEAU900022 + VEAU900014 ) 
+2542,Pourcentage estimé des eaux usées ayant échappé au système de traitement,%,WWTR110M,REM Canada,Montréal,2016,0.00694,VEAU900022 / ( VEAU900022 + VEAU900014 ) 
+2542,Pourcentage estimé des eaux usées ayant échappé au système de traitement,%,WWTR110M,REM Canada,Montréal,2017,0.00554,VEAU900022 / ( VEAU900022 + VEAU900014 ) 
+2543,Nombre de refoulements par 100 km de conduite d’eaux usées,Quantité,WWTR405M,REM Canada,Montréal,2011,27.28873,VEAU900024 / VEAU900043 * 100
+2543,Nombre de refoulements par 100 km de conduite d’eaux usées,Quantité,WWTR405M,REM Canada,Montréal,2012,105.86016,VEAU900024 / VEAU900043 * 100
+2543,Nombre de refoulements par 100 km de conduite d’eaux usées,Quantité,WWTR405M,REM Canada,Montréal,2013,16.32294,VEAU900024 / VEAU900043 * 100
+2543,Nombre de refoulements par 100 km de conduite d’eaux usées,Quantité,WWTR405M,REM Canada,Montréal,2014,4.87746,VEAU900024 / VEAU900043 * 100
+2543,Nombre de refoulements par 100 km de conduite d’eaux usées,Quantité,WWTR405M,REM Canada,Montréal,2015,4.87509,VEAU900024 / VEAU900043 * 100
+2543,Nombre de refoulements par 100 km de conduite d’eaux usées,Quantité,WWTR405M,REM Canada,Montréal,2016,7.32256,VEAU900024 / VEAU900043 * 100
+2543,Nombre de refoulements par 100 km de conduite d’eaux usées,Quantité,WWTR405M,REM Canada,Montréal,2017,8.6661,VEAU900024 / VEAU900043 * 100
+2544,Coût total pour la collecte des ordures ménagères en bordure de rue par tonne,$,SWST311T,REM Canada,Montréal,2014,147.16743, ( VGMR100024 + VGMR100021 + VGMR100025 - VGMR100029 ) / VGMR900001 
+2544,Coût total pour la collecte des ordures ménagères en bordure de rue par tonne,$,SWST311T,REM Canada,Montréal,2015,149.69889, ( VGMR100024 + VGMR100021 + VGMR100025 - VGMR100029 ) / VGMR900001 
+2544,Coût total pour la collecte des ordures ménagères en bordure de rue par tonne,$,SWST311T,REM Canada,Montréal,2016,152.28739, ( VGMR100024 + VGMR100021 + VGMR100025 - VGMR100029 ) / VGMR900001 
+2544,Coût total pour la collecte des ordures ménagères en bordure de rue par tonne,$,SWST311T,REM Canada,Montréal,2017,152.87771, ( VGMR100024 + VGMR100021 + VGMR100025 - VGMR100029 ) / VGMR900001 
+2545,Coût total pour l’élimination des matières résiduelles par tonne,$,SWST325T,REM Canada,Montréal,2013,109.62524, ( VGMR100011 + VGMR100022 + VGMR100003 - VGMR100018 ) / VGMR900004 
+2545,Coût total pour l’élimination des matières résiduelles par tonne,$,SWST325T,REM Canada,Montréal,2014,85.4761, ( VGMR100011 + VGMR100022 + VGMR100003 - VGMR100018 ) / VGMR900004 
+2545,Coût total pour l’élimination des matières résiduelles par tonne,$,SWST325T,REM Canada,Montréal,2015,87.36047, ( VGMR100011 + VGMR100022 + VGMR100003 - VGMR100018 ) / VGMR900004 
+2545,Coût total pour l’élimination des matières résiduelles par tonne,$,SWST325T,REM Canada,Montréal,2016,78.06645, ( VGMR100011 + VGMR100022 + VGMR100003 - VGMR100018 ) / VGMR900004 
+2545,Coût total pour l’élimination des matières résiduelles par tonne,$,SWST325T,REM Canada,Montréal,2017,79.65813, ( VGMR100011 + VGMR100022 + VGMR100003 - VGMR100018 ) / VGMR900004 
+2546,Coût total pour la valorisation des matières résiduelles par tonne,$,SWST330T,REM Canada,Montréal,2013,272.80574, ( VGMR100005 + VGMR100023 + VGMR100006 - VGMR100019 ) / VGMR900012 
+2546,Coût total pour la valorisation des matières résiduelles par tonne,$,SWST330T,REM Canada,Montréal,2014,255.19308, ( VGMR100005 + VGMR100023 + VGMR100006 - VGMR100019 ) / VGMR900012 
+2546,Coût total pour la valorisation des matières résiduelles par tonne,$,SWST330T,REM Canada,Montréal,2015,255.04948, ( VGMR100005 + VGMR100023 + VGMR100006 - VGMR100019 ) / VGMR900012 
+2546,Coût total pour la valorisation des matières résiduelles par tonne,$,SWST330T,REM Canada,Montréal,2016,248.5315, ( VGMR100005 + VGMR100023 + VGMR100006 - VGMR100019 ) / VGMR900012 
+2546,Coût total pour la valorisation des matières résiduelles par tonne,$,SWST330T,REM Canada,Montréal,2017,223.71798, ( VGMR100005 + VGMR100023 + VGMR100006 - VGMR100019 ) / VGMR900012 
+2547,Pourcentage de matières résiduelles résidentielles détourné de l’enfouissement,%,SWST105M,REM Canada,Montréal,2013,0.31012,VGMR900012 / VGMR900014
+2547,Pourcentage de matières résiduelles résidentielles détourné de l’enfouissement,%,SWST105M,REM Canada,Montréal,2014,0.30919,VGMR900012 / VGMR900014
+2547,Pourcentage de matières résiduelles résidentielles détourné de l’enfouissement,%,SWST105M,REM Canada,Montréal,2015,0.32523,VGMR900012 / VGMR900014
+2547,Pourcentage de matières résiduelles résidentielles détourné de l’enfouissement,%,SWST105M,REM Canada,Montréal,2016,0.35885,VGMR900012 / VGMR900014
+2547,Pourcentage de matières résiduelles résidentielles détourné de l’enfouissement,%,SWST105M,REM Canada,Montréal,2017,0.37472,VGMR900012 / VGMR900014
+2548,Quantité de matières résiduelles résidentielles générées par logement,Quantité,SWST205,REM Canada,Montréal,2013,0.95048,VGMR900014 / VGMR900027 
+2548,Quantité de matières résiduelles résidentielles générées par logement,Quantité,SWST205,REM Canada,Montréal,2014,0.89516,VGMR900014 / VGMR900027 
+2548,Quantité de matières résiduelles résidentielles générées par logement,Quantité,SWST205,REM Canada,Montréal,2015,0.88703,VGMR900014 / VGMR900027 
+2548,Quantité de matières résiduelles résidentielles générées par logement,Quantité,SWST205,REM Canada,Montréal,2016,0.85796,VGMR900014 / VGMR900027 
+2548,Quantité de matières résiduelles résidentielles générées par logement,Quantité,SWST205,REM Canada,Montréal,2017,0.8553,VGMR900014 / VGMR900027 
+2549,Quantité de matières résiduelles résidentielles éliminées par logement,Quantité,SWST220,REM Canada,Montréal,2013,0.65572,VGMR900013 / VGMR900027 
+2549,Quantité de matières résiduelles résidentielles éliminées par logement,Quantité,SWST220,REM Canada,Montréal,2014,0.61838,VGMR900013 / VGMR900027 
+2549,Quantité de matières résiduelles résidentielles éliminées par logement,Quantité,SWST220,REM Canada,Montréal,2015,0.59854,VGMR900013 / VGMR900027 
+2549,Quantité de matières résiduelles résidentielles éliminées par logement,Quantité,SWST220,REM Canada,Montréal,2016,0.55008,VGMR900013 / VGMR900027 
+2549,Quantité de matières résiduelles résidentielles éliminées par logement,Quantité,SWST220,REM Canada,Montréal,2017,0.5348,VGMR900013 / VGMR900027 
+2550,Quantité de matières résiduelles résidentielles valorisées par logement,Quantité,SWST235,REM Canada,Montréal,2013,0.29477,VGMR900012 / VGMR900027 
+2550,Quantité de matières résiduelles résidentielles valorisées par logement,Quantité,SWST235,REM Canada,Montréal,2014,0.27677,VGMR900012 / VGMR900027 
+2550,Quantité de matières résiduelles résidentielles valorisées par logement,Quantité,SWST235,REM Canada,Montréal,2015,0.28848,VGMR900012 / VGMR900027 
+2550,Quantité de matières résiduelles résidentielles valorisées par logement,Quantité,SWST235,REM Canada,Montréal,2016,0.30787,VGMR900012 / VGMR900027 
+2550,Quantité de matières résiduelles résidentielles valorisées par logement,Quantité,SWST235,REM Canada,Montréal,2017,0.3205,VGMR900012 / VGMR900027 
+2551,Coûts d’exploitation relatifs aux parcs par habitant,$,PRKS230M,REM Canada,Montréal,2013,68.98722, ( VPAR100001 + VPAR100009 + VPAR100013 ) / VPOP900032 
+2551,Coûts d’exploitation relatifs aux parcs par habitant,$,PRKS230M,REM Canada,Montréal,2014,63.97798, ( VPAR100001 + VPAR100009 + VPAR100013 ) / VPOP900032 
+2551,Coûts d’exploitation relatifs aux parcs par habitant,$,PRKS230M,REM Canada,Montréal,2015,67.88586, ( VPAR100001 + VPAR100009 + VPAR100013 ) / VPOP900032 
+2551,Coûts d’exploitation relatifs aux parcs par habitant,$,PRKS230M,REM Canada,Montréal,2016,73.10528, ( VPAR100001 + VPAR100009 + VPAR100013 ) / VPOP900032 
+2551,Coûts d’exploitation relatifs aux parcs par habitant,$,PRKS230M,REM Canada,Montréal,2017,78.28698, ( VPAR100001 + VPAR100009 + VPAR100013 ) / VPOP900032 
+2552,Nombre d’infractions criminelles non routières par policier,Quantité,PLCE305,REM Canada,Montréal,2011,24.61505,VPOL900370 / VPOL900366 
+2552,Nombre d’infractions criminelles non routières par policier,Quantité,PLCE305,REM Canada,Montréal,2012,23.60017,VPOL900370 / VPOL900366 
+2552,Nombre d’infractions criminelles non routières par policier,Quantité,PLCE305,REM Canada,Montréal,2013,20.88484,VPOL900370 / VPOL900366 
+2552,Nombre d’infractions criminelles non routières par policier,Quantité,PLCE305,REM Canada,Montréal,2014,19.36334,VPOL900370 / VPOL900366 
+2552,Nombre d’infractions criminelles non routières par policier,Quantité,PLCE305,REM Canada,Montréal,2015,18.96821,VPOL900370 / VPOL900366 
+2552,Nombre d’infractions criminelles non routières par policier,Quantité,PLCE305,REM Canada,Montréal,2016,18.26605,VPOL900370 / VPOL900366 
+2552,Nombre d’infractions criminelles non routières par policier,Quantité,PLCE305,REM Canada,Montréal,2017,18.04095,VPOL900370 / VPOL900366 
+2554,Coûts d’exploitation relatifs aux parcs par hectare,$,PRKS315,REM Canada,Montréal,2013,29904.01402, ( VPAR100001 + VPAR100009 + VPAR100013 ) / ( VPAR900010 + VPAR900011 + VPAR900012 ) 
+2554,Coûts d’exploitation relatifs aux parcs par hectare,$,PRKS315,REM Canada,Montréal,2014,28262.92051, ( VPAR100001 + VPAR100009 + VPAR100013 ) / ( VPAR900010 + VPAR900011 + VPAR900012 ) 
+2554,Coûts d’exploitation relatifs aux parcs par hectare,$,PRKS315,REM Canada,Montréal,2015,29357.43086, ( VPAR100001 + VPAR100009 + VPAR100013 ) / ( VPAR900010 + VPAR900011 + VPAR900012 ) 
+2554,Coûts d’exploitation relatifs aux parcs par hectare,$,PRKS315,REM Canada,Montréal,2016,31671.54449, ( VPAR100001 + VPAR100009 + VPAR100013 ) / ( VPAR900010 + VPAR900011 + VPAR900012 ) 
+2554,Coûts d’exploitation relatifs aux parcs par hectare,$,PRKS315,REM Canada,Montréal,2017,33546.07818, ( VPAR100001 + VPAR100009 + VPAR100013 ) / ( VPAR900010 + VPAR900011 + VPAR900012 ) 
+2558,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement) ,$,NULL,MAMOT,Montréal,2011,0.14511, ( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2558,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement) ,$,NULL,MAMOT,Montréal,2012,0.14132, ( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2558,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement) ,$,NULL,MAMOT,Montréal,2013,0.13549, ( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2558,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement) ,$,NULL,MAMOT,Montréal,2014,0.12883, ( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2558,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement) ,$,NULL,MAMOT,Montréal,2015,0.1291, ( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2558,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement) ,$,NULL,MAMOT,Montréal,2016,0.12835, ( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2558,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement) ,$,NULL,MAMOT,Montréal,2017,0.12716, ( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2559,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2010,31214.07496, ( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900006 
+2559,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2011,32469.894, ( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900006 
+2559,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2012,26359.16955, ( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900006 
+2559,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2013,26989.04818, ( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900006 
+2559,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2014,27565.83045, ( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900006 
+2559,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2015,28905.29514, ( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900006 
+2559,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2016,31215.90608, ( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900006 
+2559,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,NULL,MAMOT,Montréal,2017,31822.84015, ( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900006 
+2563,Nombre de permis de construction émis,Quantité,BLDG206,REM Canada,Montréal,2012,14354,VREG900024 + VREG900019 
+2563,Nombre de permis de construction émis,Quantité,BLDG206,REM Canada,Montréal,2013,14807,VREG900024 + VREG900019 
+2563,Nombre de permis de construction émis,Quantité,BLDG206,REM Canada,Montréal,2014,16170,VREG900024 + VREG900019 
+2563,Nombre de permis de construction émis,Quantité,BLDG206,REM Canada,Montréal,2015,15847,VREG900024 + VREG900019 
+2563,Nombre de permis de construction émis,Quantité,BLDG206,REM Canada,Montréal,2016,16198,VREG900024 + VREG900019 
+2563,Nombre de permis de construction émis,Quantité,BLDG206,REM Canada,Montréal,2017,16741,VREG900024 + VREG900019 
+2566,Coût total des services policiers par habitant,$,PLCE227T,REM Canada,Montréal,2013,414.27405, ( VPOL100001 + VPOL100372 + VPOL100195 - VPOL100196 ) / VPOP900004 
+2566,Coût total des services policiers par habitant,$,PLCE227T,REM Canada,Montréal,2014,412.57499, ( VPOL100001 + VPOL100372 + VPOL100195 - VPOL100196 ) / VPOP900004 
+2566,Coût total des services policiers par habitant,$,PLCE227T,REM Canada,Montréal,2015,388.74671, ( VPOL100001 + VPOL100372 + VPOL100195 - VPOL100196 ) / VPOP900004 
+2566,Coût total des services policiers par habitant,$,PLCE227T,REM Canada,Montréal,2016,385.08587, ( VPOL100001 + VPOL100372 + VPOL100195 - VPOL100196 ) / VPOP900004 
+2566,Coût total des services policiers par habitant,$,PLCE227T,REM Canada,Montréal,2017,393.25969, ( VPOL100001 + VPOL100372 + VPOL100195 - VPOL100196 ) / VPOP900004 
+2567,Nombre d’infractions criminelles avec violence pour 100 000 habitants,Quantité,PLCE105,REM Canada,Montréal,2011,1222.23422,VPOL900369 / ( VPOP900004 / 100000 ) 
+2567,Nombre d’infractions criminelles avec violence pour 100 000 habitants,Quantité,PLCE105,REM Canada,Montréal,2012,1136.42943,VPOL900369 / ( VPOP900004 / 100000 ) 
+2567,Nombre d’infractions criminelles avec violence pour 100 000 habitants,Quantité,PLCE105,REM Canada,Montréal,2013,1017.07999,VPOL900369 / ( VPOP900004 / 100000 ) 
+2567,Nombre d’infractions criminelles avec violence pour 100 000 habitants,Quantité,PLCE105,REM Canada,Montréal,2014,945.44795,VPOL900369 / ( VPOP900004 / 100000 ) 
+2567,Nombre d’infractions criminelles avec violence pour 100 000 habitants,Quantité,PLCE105,REM Canada,Montréal,2015,981.12535,VPOL900369 / ( VPOP900004 / 100000 ) 
+2567,Nombre d’infractions criminelles avec violence pour 100 000 habitants,Quantité,PLCE105,REM Canada,Montréal,2016,988.28002,VPOL900369 / ( VPOP900004 / 100000 ) 
+2567,Nombre d’infractions criminelles avec violence pour 100 000 habitants,Quantité,PLCE105,REM Canada,Montréal,2017,998.7028,VPOL900369 / ( VPOP900004 / 100000 ) 
+2568,Nombre d’infractions criminelles non routières pour 100 000 habitants,Quantité,PLCE120,REM Canada,Montréal,2011,5804.39109,VPOL900370 / ( VPOP900004 / 100000 ) 
+2568,Nombre d’infractions criminelles non routières pour 100 000 habitants,Quantité,PLCE120,REM Canada,Montréal,2012,5658.67581,VPOL900370 / ( VPOP900004 / 100000 ) 
+2568,Nombre d’infractions criminelles non routières pour 100 000 habitants,Quantité,PLCE120,REM Canada,Montréal,2013,4969.04281,VPOL900370 / ( VPOP900004 / 100000 ) 
+2568,Nombre d’infractions criminelles non routières pour 100 000 habitants,Quantité,PLCE120,REM Canada,Montréal,2014,4553.46615,VPOL900370 / ( VPOP900004 / 100000 ) 
+2568,Nombre d’infractions criminelles non routières pour 100 000 habitants,Quantité,PLCE120,REM Canada,Montréal,2015,4360.10104,VPOL900370 / ( VPOP900004 / 100000 ) 
+2568,Nombre d’infractions criminelles non routières pour 100 000 habitants,Quantité,PLCE120,REM Canada,Montréal,2016,4129.38207,VPOL900370 / ( VPOP900004 / 100000 ) 
+2568,Nombre d’infractions criminelles non routières pour 100 000 habitants,Quantité,PLCE120,REM Canada,Montréal,2017,4089.91634,VPOL900370 / ( VPOP900004 / 100000 ) 
+2569,Indice de gravité des crimes violents,Quantité,PLCE170,REM Canada,Montréal,2011,138.6,VPOL900371 
+2569,Indice de gravité des crimes violents,Quantité,PLCE170,REM Canada,Montréal,2012,122.23,VPOL900371 
+2569,Indice de gravité des crimes violents,Quantité,PLCE170,REM Canada,Montréal,2013,103.64,VPOL900371 
+2569,Indice de gravité des crimes violents,Quantité,PLCE170,REM Canada,Montréal,2014,93.45,VPOL900371 
+2569,Indice de gravité des crimes violents,Quantité,PLCE170,REM Canada,Montréal,2015,100.46,VPOL900371 
+2569,Indice de gravité des crimes violents,Quantité,PLCE170,REM Canada,Montréal,2016,93.54,VPOL900371 
+2569,Indice de gravité des crimes violents,Quantité,PLCE170,REM Canada,Montréal,2017,93.1,VPOL900371 
+2570,Indice de gravité des crimes,Quantité,PLCE180,REM Canada,Montréal,2011,98.58,VPOL900373 
+2570,Indice de gravité des crimes,Quantité,PLCE180,REM Canada,Montréal,2012,92.29,VPOL900373 
+2570,Indice de gravité des crimes,Quantité,PLCE180,REM Canada,Montréal,2013,79.21,VPOL900373 
+2570,Indice de gravité des crimes,Quantité,PLCE180,REM Canada,Montréal,2014,73.05,VPOL900373 
+2570,Indice de gravité des crimes,Quantité,PLCE180,REM Canada,Montréal,2015,75.16,VPOL900373 
+2570,Indice de gravité des crimes,Quantité,PLCE180,REM Canada,Montréal,2016,73.14,VPOL900373 
+2570,Indice de gravité des crimes,Quantité,PLCE180,REM Canada,Montréal,2017,72.74,VPOL900373 
+2571,Nombre de policiers et de civils pour 100 000 habitants,Quantité,PLCE215,REM Canada,Montréal,2011,305.95714, ( VPOL900366 + VPOL900148 ) / ( VPOP900004 / 100000 ) 
+2571,Nombre de policiers et de civils pour 100 000 habitants,Quantité,PLCE215,REM Canada,Montréal,2012,289.68832, ( VPOL900366 + VPOL900148 ) / ( VPOP900004 / 100000 ) 
+2571,Nombre de policiers et de civils pour 100 000 habitants,Quantité,PLCE215,REM Canada,Montréal,2013,286.63585, ( VPOL900366 + VPOL900148 ) / ( VPOP900004 / 100000 ) 
+2571,Nombre de policiers et de civils pour 100 000 habitants,Quantité,PLCE215,REM Canada,Montréal,2014,286.26302, ( VPOL900366 + VPOL900148 ) / ( VPOP900004 / 100000 ) 
+2571,Nombre de policiers et de civils pour 100 000 habitants,Quantité,PLCE215,REM Canada,Montréal,2015,279.07009, ( VPOL900366 + VPOL900148 ) / ( VPOP900004 / 100000 ) 
+2571,Nombre de policiers et de civils pour 100 000 habitants,Quantité,PLCE215,REM Canada,Montréal,2016,274.53327, ( VPOL900366 + VPOL900148 ) / ( VPOP900004 / 100000 ) 
+2571,Nombre de policiers et de civils pour 100 000 habitants,Quantité,PLCE215,REM Canada,Montréal,2017,274.45192, ( VPOL900366 + VPOL900148 ) / ( VPOP900004 / 100000 ) 
+2572,Nombre de nouveaux logements créés pour 100 000 habitants,Quantité,BLDG221,REM Canada,Montréal,2012,481.22599,VREG900025 / VPOP900002 * 100000
+2572,Nombre de nouveaux logements créés pour 100 000 habitants,Quantité,BLDG221,REM Canada,Montréal,2013,490.55924,VREG900025 / VPOP900002 * 100000
+2572,Nombre de nouveaux logements créés pour 100 000 habitants,Quantité,BLDG221,REM Canada,Montréal,2014,476.76672,VREG900025 / VPOP900002 * 100000
+2572,Nombre de nouveaux logements créés pour 100 000 habitants,Quantité,BLDG221,REM Canada,Montréal,2015,411.80034,VREG900025 / VPOP900002 * 100000
+2572,Nombre de nouveaux logements créés pour 100 000 habitants,Quantité,BLDG221,REM Canada,Montréal,2016,322.77687,VREG900025 / VPOP900002 * 100000
+2572,Nombre de nouveaux logements créés pour 100 000 habitants,Quantité,BLDG221,REM Canada,Montréal,2017,631.49318,VREG900025 / VPOP900002 * 100000
+2578,Nombre de factures payées pour 1 000 000 $ d’achats municipaux,Quantité,FINV230,REM Canada,Montréal,2012,287.60162, ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) / ( VADM100044 / 1000000 ) 
+2578,Nombre de factures payées pour 1 000 000 $ d’achats municipaux,Quantité,FINV230,REM Canada,Montréal,2013,297.59034, ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) / ( VADM100044 / 1000000 ) 
+2578,Nombre de factures payées pour 1 000 000 $ d’achats municipaux,Quantité,FINV230,REM Canada,Montréal,2014,286.39218, ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) / ( VADM100044 / 1000000 ) 
+2578,Nombre de factures payées pour 1 000 000 $ d’achats municipaux,Quantité,FINV230,REM Canada,Montréal,2015,274.50109, ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) / ( VADM100044 / 1000000 ) 
+2578,Nombre de factures payées pour 1 000 000 $ d’achats municipaux,Quantité,FINV230,REM Canada,Montréal,2016,266.09344, ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) / ( VADM100044 / 1000000 ) 
+2578,Nombre de factures payées pour 1 000 000 $ d’achats municipaux,Quantité,FINV230,REM Canada,Montréal,2017,228.45009, ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) / ( VADM100044 / 1000000 ) 
+2579,Nombre de factures payées par équivalent à temps plein (ETP) assurant le traitement des comptes fournisseurs,Quantité,FINV325,REM Canada,Montréal,2011,15125.54839, ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) / VFIN900040 
+2579,Nombre de factures payées par équivalent à temps plein (ETP) assurant le traitement des comptes fournisseurs,Quantité,FINV325,REM Canada,Montréal,2012,16156.60714, ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) / VFIN900040 
+2579,Nombre de factures payées par équivalent à temps plein (ETP) assurant le traitement des comptes fournisseurs,Quantité,FINV325,REM Canada,Montréal,2013,18609.92, ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) / VFIN900040 
+2579,Nombre de factures payées par équivalent à temps plein (ETP) assurant le traitement des comptes fournisseurs,Quantité,FINV325,REM Canada,Montréal,2014,18158.8, ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) / VFIN900040 
+2579,Nombre de factures payées par équivalent à temps plein (ETP) assurant le traitement des comptes fournisseurs,Quantité,FINV325,REM Canada,Montréal,2015,18313.04, ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) / VFIN900040 
+2579,Nombre de factures payées par équivalent à temps plein (ETP) assurant le traitement des comptes fournisseurs,Quantité,FINV325,REM Canada,Montréal,2016,20934.08, ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) / VFIN900040 
+2579,Nombre de factures payées par équivalent à temps plein (ETP) assurant le traitement des comptes fournisseurs,Quantité,FINV325,REM Canada,Montréal,2017,19622.66667, ( VFIN900053 + VFIN900054 + VFIN900055 + VFIN900061 ) / VFIN900040 
+2580,Nombre de demandes d’accès à l’information pour 100 000 habitants,Quantité,CLKS270,REM Canada,Montréal,2012,432.91874,VADM900015 / VPOP900002 * 100000
+2580,Nombre de demandes d’accès à l’information pour 100 000 habitants,Quantité,CLKS270,REM Canada,Montréal,2013,438.85323,VADM900015 / VPOP900002 * 100000
+2580,Nombre de demandes d’accès à l’information pour 100 000 habitants,Quantité,CLKS270,REM Canada,Montréal,2014,483.75591,VADM900015 / VPOP900002 * 100000
+2580,Nombre de demandes d’accès à l’information pour 100 000 habitants,Quantité,CLKS270,REM Canada,Montréal,2015,533.76033,VADM900015 / VPOP900002 * 100000
+2580,Nombre de demandes d’accès à l’information pour 100 000 habitants,Quantité,CLKS270,REM Canada,Montréal,2016,546.55146,VADM900015 / VPOP900002 * 100000
+2580,Nombre de demandes d’accès à l’information pour 100 000 habitants,Quantité,CLKS270,REM Canada,Montréal,2017,607.74606,VADM900015 / VPOP900002 * 100000
+2581,"Pourcentage de demandes d’accès à l’information, incluant les prolongations, traitées dans les délais prescrits",%,CLKS470,REM Canada,Montréal,2012,0.76455,VADM900020 / VADM900015
+2581,"Pourcentage de demandes d’accès à l’information, incluant les prolongations, traitées dans les délais prescrits",%,CLKS470,REM Canada,Montréal,2013,0.77952,VADM900020 / VADM900015
+2581,"Pourcentage de demandes d’accès à l’information, incluant les prolongations, traitées dans les délais prescrits",%,CLKS470,REM Canada,Montréal,2014,0.82185,VADM900020 / VADM900015
+2581,"Pourcentage de demandes d’accès à l’information, incluant les prolongations, traitées dans les délais prescrits",%,CLKS470,REM Canada,Montréal,2015,0.87047,VADM900020 / VADM900015
+2581,"Pourcentage de demandes d’accès à l’information, incluant les prolongations, traitées dans les délais prescrits",%,CLKS470,REM Canada,Montréal,2016,0.8571,VADM900020 / VADM900015
+2581,"Pourcentage de demandes d’accès à l’information, incluant les prolongations, traitées dans les délais prescrits",%,CLKS470,REM Canada,Montréal,2017,0.8525,VADM900020 / VADM900015
+2582,"Pourcentage de demandes d’accès à l’information, incluant les prolongations et les avis à des tiers, traitées dans les délais prescrits",%,CLKS475,REM Canada,Montréal,2012,0.79083, ( VADM900020 + VADM900021 ) / VADM900015 
+2582,"Pourcentage de demandes d’accès à l’information, incluant les prolongations et les avis à des tiers, traitées dans les délais prescrits",%,CLKS475,REM Canada,Montréal,2013,0.81039, ( VADM900020 + VADM900021 ) / VADM900015 
+2582,"Pourcentage de demandes d’accès à l’information, incluant les prolongations et les avis à des tiers, traitées dans les délais prescrits",%,CLKS475,REM Canada,Montréal,2014,0.8443, ( VADM900020 + VADM900021 ) / VADM900015 
+2582,"Pourcentage de demandes d’accès à l’information, incluant les prolongations et les avis à des tiers, traitées dans les délais prescrits",%,CLKS475,REM Canada,Montréal,2015,0.89473, ( VADM900020 + VADM900021 ) / VADM900015 
+2582,"Pourcentage de demandes d’accès à l’information, incluant les prolongations et les avis à des tiers, traitées dans les délais prescrits",%,CLKS475,REM Canada,Montréal,2016,0.87679, ( VADM900020 + VADM900021 ) / VADM900015 
+2582,"Pourcentage de demandes d’accès à l’information, incluant les prolongations et les avis à des tiers, traitées dans les délais prescrits",%,CLKS475,REM Canada,Montréal,2017,0.86935, ( VADM900020 + VADM900021 ) / VADM900015 
+2583,Taux de rendement réalisé sur le portefeuille global de placements,%,INVT310,REM Canada,Montréal,2012,0.01578,VFIN100033 / VFIN100034 
+2583,Taux de rendement réalisé sur le portefeuille global de placements,%,INVT310,REM Canada,Montréal,2013,0.01632,VFIN100033 / VFIN100034 
+2583,Taux de rendement réalisé sur le portefeuille global de placements,%,INVT310,REM Canada,Montréal,2014,0.01609,VFIN100033 / VFIN100034 
+2583,Taux de rendement réalisé sur le portefeuille global de placements,%,INVT310,REM Canada,Montréal,2015,0.0129,VFIN100033 / VFIN100034 
+2583,Taux de rendement réalisé sur le portefeuille global de placements,%,INVT310,REM Canada,Montréal,2016,0.01361,VFIN100033 / VFIN100034 
+2583,Taux de rendement réalisé sur le portefeuille global de placements,%,INVT310,REM Canada,Montréal,2017,0.0147,VFIN100033 / VFIN100034 
+2585,Taux de rendement réalisé sur le portefeuille de placements géré à l’interne,%,INVT312,REM Canada,Montréal,2012,0.01578,VFIN100042 / VFIN100043 
+2585,Taux de rendement réalisé sur le portefeuille de placements géré à l’interne,%,INVT312,REM Canada,Montréal,2013,0.01632,VFIN100042 / VFIN100043 
+2585,Taux de rendement réalisé sur le portefeuille de placements géré à l’interne,%,INVT312,REM Canada,Montréal,2014,0.01609,VFIN100042 / VFIN100043 
+2585,Taux de rendement réalisé sur le portefeuille de placements géré à l’interne,%,INVT312,REM Canada,Montréal,2015,0.0129,VFIN100042 / VFIN100043 
+2585,Taux de rendement réalisé sur le portefeuille de placements géré à l’interne,%,INVT312,REM Canada,Montréal,2016,0.01361,VFIN100042 / VFIN100043 
+2585,Taux de rendement réalisé sur le portefeuille de placements géré à l’interne,%,INVT312,REM Canada,Montréal,2017,0.0147,VFIN100042 / VFIN100043 
+2591,Coût d’approvisionnement et de traitement par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2010,0.09397, ( VEAU100004 + VEAU100005 ) / ( VEAU900006 ) 
+2591,Coût d’approvisionnement et de traitement par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2011,0.09577, ( VEAU100004 + VEAU100005 ) / ( VEAU900006 ) 
+2591,Coût d’approvisionnement et de traitement par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2012,0.10415, ( VEAU100004 + VEAU100005 ) / ( VEAU900006 ) 
+2591,Coût d’approvisionnement et de traitement par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2013,0.11187, ( VEAU100004 + VEAU100005 ) / ( VEAU900006 ) 
+2591,Coût d’approvisionnement et de traitement par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2014,0.11598, ( VEAU100004 + VEAU100005 ) / ( VEAU900006 ) 
+2591,Coût d’approvisionnement et de traitement par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2015,0.11734, ( VEAU100004 + VEAU100005 ) / ( VEAU900006 ) 
+2591,Coût d’approvisionnement et de traitement par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2016,0.1353, ( VEAU100004 + VEAU100005 ) / ( VEAU900006 ) 
+2591,Coût d’approvisionnement et de traitement par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2017,0.14089, ( VEAU100004 + VEAU100005 ) / ( VEAU900006 ) 
+2593,Coût de la collecte des déchets domestiques et assimilés par local (incluant l’amortissement),$,NULL,MAMOT,Montréal,2012,125.73822, ( VGMR100008 + VGMR100009 - VGMR100020 ) / VGMR900015 
+2593,Coût de la collecte des déchets domestiques et assimilés par local (incluant l’amortissement),$,NULL,MAMOT,Montréal,2013,127.7236, ( VGMR100008 + VGMR100009 - VGMR100020 ) / VGMR900015 
+2593,Coût de la collecte des déchets domestiques et assimilés par local (incluant l’amortissement),$,NULL,MAMOT,Montréal,2014,107.53165, ( VGMR100008 + VGMR100009 - VGMR100020 ) / VGMR900015 
+2593,Coût de la collecte des déchets domestiques et assimilés par local (incluant l’amortissement),$,NULL,MAMOT,Montréal,2015,105.8017, ( VGMR100008 + VGMR100009 - VGMR100020 ) / VGMR900015 
+2593,Coût de la collecte des déchets domestiques et assimilés par local (incluant l’amortissement),$,NULL,MAMOT,Montréal,2016,99.62292, ( VGMR100008 + VGMR100009 - VGMR100020 ) / VGMR900015 
+2593,Coût de la collecte des déchets domestiques et assimilés par local (incluant l’amortissement),$,NULL,MAMOT,Montréal,2017,98.84977, ( VGMR100008 + VGMR100009 - VGMR100020 ) / VGMR900015 
+2596,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2010,0.14082, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2596,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2011,0.171, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2596,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2012,0.16326, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2596,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2013,0.19849, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2596,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2014,0.20301, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2596,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2015,0.23037, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2596,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2016,0.2355, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2596,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,NULL,MAMOT,Montréal,2017,0.25675, ( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2598,Coût du traitement par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2010,0.13668, ( VEAU100012 + VEAU100013 ) / VEAU900031
+2598,Coût du traitement par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2011,0.13056, ( VEAU100012 + VEAU100013 ) / VEAU900031
+2598,Coût du traitement par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2012,0.15925, ( VEAU100012 + VEAU100013 ) / VEAU900031
+2598,Coût du traitement par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2013,0.15012, ( VEAU100012 + VEAU100013 ) / VEAU900031
+2598,Coût du traitement par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2014,0.14816, ( VEAU100012 + VEAU100013 ) / VEAU900031
+2598,Coût du traitement par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2015,0.16296, ( VEAU100012 + VEAU100013 ) / VEAU900031
+2598,Coût du traitement par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2016,0.1603, ( VEAU100012 + VEAU100013 ) / VEAU900031
+2598,Coût du traitement par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2017,0.15047, ( VEAU100012 + VEAU100013 ) / VEAU900031
+2600,Coût des réseaux d’égout par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2010,14285.71429, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023 
+2600,Coût des réseaux d’égout par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2011,15373.13123, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023 
+2600,Coût des réseaux d’égout par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2012,17324.12791, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023 
+2600,Coût des réseaux d’égout par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2013,17470.10839, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023 
+2600,Coût des réseaux d’égout par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2014,17330.41401, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023 
+2600,Coût des réseaux d’égout par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2015,17736.26592, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023 
+2600,Coût des réseaux d’égout par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2016,18931.13654, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023 
+2600,Coût des réseaux d’égout par kilomètre de conduite (incluant l’amortissement),$,NULL,MAMOT,Montréal,2017,20400, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023 
+2602,Rendement moyen annuel de la collecte sélective,Ratio,NULL,MAMOT,Montréal,2014,0.13323,VGMR900012 / VPOP900002 
+2602,Rendement moyen annuel de la collecte sélective,Ratio,NULL,MAMOT,Montréal,2015,0.13855,VGMR900012 / VPOP900002 
+2602,Rendement moyen annuel de la collecte sélective,Ratio,NULL,MAMOT,Montréal,2016,0.1474,VGMR900012 / VPOP900002 
+2602,Rendement moyen annuel de la collecte sélective,Ratio,NULL,MAMOT,Montréal,2017,0.15357,VGMR900012 / VPOP900002 
+2604,Pourcentage du coût de la formation par rapport à la rémunération totale,%,NULL,MAMOT,Montréal,2010,0.01826,VRHU100021 / VRHU100022 
+2604,Pourcentage du coût de la formation par rapport à la rémunération totale,%,NULL,MAMOT,Montréal,2011,0.01893,VRHU100021 / VRHU100022 
+2604,Pourcentage du coût de la formation par rapport à la rémunération totale,%,NULL,MAMOT,Montréal,2012,0.022,VRHU100021 / VRHU100022 
+2604,Pourcentage du coût de la formation par rapport à la rémunération totale,%,NULL,MAMOT,Montréal,2013,0.02176,VRHU100021 / VRHU100022 
+2604,Pourcentage du coût de la formation par rapport à la rémunération totale,%,NULL,MAMOT,Montréal,2014,0.01978,VRHU100021 / VRHU100022 
+2604,Pourcentage du coût de la formation par rapport à la rémunération totale,%,NULL,MAMOT,Montréal,2015,0.02076,VRHU100021 / VRHU100022 
+2604,Pourcentage du coût de la formation par rapport à la rémunération totale,%,NULL,MAMOT,Montréal,2016,0.0258,VRHU100021 / VRHU100022 
+2604,Pourcentage du coût de la formation par rapport à la rémunération totale,%,NULL,MAMOT,Montréal,2017,0.02367,VRHU100021 / VRHU100022 
+2610,Pourcentage d’équivalents à temps plein (ETP) chargés des technologies de l’information,%,INTN250,REM Canada,Montréal,2013,0.02434,VTIN900008 / VRHU900007 
+2610,Pourcentage d’équivalents à temps plein (ETP) chargés des technologies de l’information,%,INTN250,REM Canada,Montréal,2014,0.02591,VTIN900008 / VRHU900007 
+2610,Pourcentage d’équivalents à temps plein (ETP) chargés des technologies de l’information,%,INTN250,REM Canada,Montréal,2015,0.02497,VTIN900008 / VRHU900007 
+2610,Pourcentage d’équivalents à temps plein (ETP) chargés des technologies de l’information,%,INTN250,REM Canada,Montréal,2016,0.0253,VTIN900008 / VRHU900007 
+2610,Pourcentage d’équivalents à temps plein (ETP) chargés des technologies de l’information,%,INTN250,REM Canada,Montréal,2017,0.02556,VTIN900008 / VRHU900007 
+2611,Nombre de kilomètres de voie pour 1 000 habitants,Quantité,ROAD206,REM Canada,Montréal,2011,5.3773,VTRA900006 / ( VPOP900002 / 1000 ) 
+2611,Nombre de kilomètres de voie pour 1 000 habitants,Quantité,ROAD206,REM Canada,Montréal,2012,6.88572,VTRA900006 / ( VPOP900002 / 1000 ) 
+2611,Nombre de kilomètres de voie pour 1 000 habitants,Quantité,ROAD206,REM Canada,Montréal,2013,6.80776,VTRA900006 / ( VPOP900002 / 1000 ) 
+2611,Nombre de kilomètres de voie pour 1 000 habitants,Quantité,ROAD206,REM Canada,Montréal,2014,6.67728,VTRA900006 / ( VPOP900002 / 1000 ) 
+2611,Nombre de kilomètres de voie pour 1 000 habitants,Quantité,ROAD206,REM Canada,Montréal,2015,6.57146,VTRA900006 / ( VPOP900002 / 1000 ) 
+2611,Nombre de kilomètres de voie pour 1 000 habitants,Quantité,ROAD206,REM Canada,Montréal,2016,6.41646,VTRA900006 / ( VPOP900002 / 1000 ) 
+2611,Nombre de kilomètres de voie pour 1 000 habitants,Quantité,ROAD206,REM Canada,Montréal,2017,6.43536,VTRA900006 / ( VPOP900002 / 1000 ) 
+2623,Coût des réseaux d’égout par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2010,0.0756, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031 
+2623,Coût des réseaux d’égout par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2011,0.0781, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031 
+2623,Coût des réseaux d’égout par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2012,0.10191, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031 
+2623,Coût des réseaux d’égout par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2013,0.09704, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031 
+2623,Coût des réseaux d’égout par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2014,0.10016, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031 
+2623,Coût des réseaux d’égout par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2015,0.11124, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031 
+2623,Coût des réseaux d’égout par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2016,0.11531, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031 
+2623,Coût des réseaux d’égout par mètre cube d’eaux usées (incluant l’amortissement),$,NULL,MAMOT,Montréal,2017,0.11828, ( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031 
+2632,Nombre de permis de chauffeur de taxi attribués pour 100 000 habitants,Quantité,LICN210,REM Canada,Montréal,2013,601.96109,VREG900021 / ( VPOP900004 / 100000 ) 
+2632,Nombre de permis de chauffeur de taxi attribués pour 100 000 habitants,Quantité,LICN210,REM Canada,Montréal,2014,558.95235,VREG900021 / ( VPOP900004 / 100000 ) 
+2632,Nombre de permis de chauffeur de taxi attribués pour 100 000 habitants,Quantité,LICN210,REM Canada,Montréal,2015,518.24443,VREG900021 / ( VPOP900004 / 100000 ) 
+2632,Nombre de permis de chauffeur de taxi attribués pour 100 000 habitants,Quantité,LICN210,REM Canada,Montréal,2016,484.29797,VREG900021 / ( VPOP900004 / 100000 ) 
+2632,Nombre de permis de chauffeur de taxi attribués pour 100 000 habitants,Quantité,LICN210,REM Canada,Montréal,2017,441.94759,VREG900021 / ( VPOP900004 / 100000 ) 
+2638,Pourcentage de revenus généraux demeurant impayés après 90 jours en date du 31 décembre,%,GREV320,REM Canada,Montréal,2012,0.14659,VFIN100062 / VFIN100063 
+2638,Pourcentage de revenus généraux demeurant impayés après 90 jours en date du 31 décembre,%,GREV320,REM Canada,Montréal,2013,0.11723,VFIN100062 / VFIN100063 
+2638,Pourcentage de revenus généraux demeurant impayés après 90 jours en date du 31 décembre,%,GREV320,REM Canada,Montréal,2014,0.1237,VFIN100062 / VFIN100063 
+2638,Pourcentage de revenus généraux demeurant impayés après 90 jours en date du 31 décembre,%,GREV320,REM Canada,Montréal,2015,0.10184,VFIN100062 / VFIN100063 
+2638,Pourcentage de revenus généraux demeurant impayés après 90 jours en date du 31 décembre,%,GREV320,REM Canada,Montréal,2016,0.07259,VFIN100062 / VFIN100063 
+2638,Pourcentage de revenus généraux demeurant impayés après 90 jours en date du 31 décembre,%,GREV320,REM Canada,Montréal,2017,0.07574,VFIN100062 / VFIN100063 
+2653,Subventions octroyées pour la culture par habitant,Quantité,CLTR125,REM Canada,Montréal,2011,12.62343, ( VCLT900006 + VCLT900012 + VCLT900013 ) / VPOP900004 
+2653,Subventions octroyées pour la culture par habitant,Quantité,CLTR125,REM Canada,Montréal,2012,13.6753, ( VCLT900006 + VCLT900012 + VCLT900013 ) / VPOP900004 
+2653,Subventions octroyées pour la culture par habitant,Quantité,CLTR125,REM Canada,Montréal,2013,18.64001, ( VCLT900006 + VCLT900012 + VCLT900013 ) / VPOP900004 
+2653,Subventions octroyées pour la culture par habitant,Quantité,CLTR125,REM Canada,Montréal,2014,18.44448, ( VCLT900006 + VCLT900012 + VCLT900013 ) / VPOP900004 
+2653,Subventions octroyées pour la culture par habitant,Quantité,CLTR125,REM Canada,Montréal,2015,19.47674, ( VCLT900006 + VCLT900012 + VCLT900013 ) / VPOP900004 
+2653,Subventions octroyées pour la culture par habitant,Quantité,CLTR125,REM Canada,Montréal,2016,18.52351, ( VCLT900006 + VCLT900012 + VCLT900013 ) / VPOP900004 
+2653,Subventions octroyées pour la culture par habitant,Quantité,CLTR125,REM Canada,Montréal,2017,22.56457, ( VCLT900006 + VCLT900012 + VCLT900013 ) / VPOP900004 
+2654,Coût total de la gouvernance et de la gestion organisationnelle exprimé en pourcentage du coût total de la ville,%,GENG901T,REM Canada,Montréal,2013,0.05942, ( VGOV100003 + VGOV100001 ) / ( VADM100041 + VGOV100005 ) 
+2654,Coût total de la gouvernance et de la gestion organisationnelle exprimé en pourcentage du coût total de la ville,%,GENG901T,REM Canada,Montréal,2014,0.05335, ( VGOV100003 + VGOV100001 ) / ( VADM100041 + VGOV100005 ) 
+2654,Coût total de la gouvernance et de la gestion organisationnelle exprimé en pourcentage du coût total de la ville,%,GENG901T,REM Canada,Montréal,2015,0.05332, ( VGOV100003 + VGOV100001 ) / ( VADM100041 + VGOV100005 ) 
+2654,Coût total de la gouvernance et de la gestion organisationnelle exprimé en pourcentage du coût total de la ville,%,GENG901T,REM Canada,Montréal,2016,0.05034, ( VGOV100003 + VGOV100001 ) / ( VADM100041 + VGOV100005 ) 
+2654,Coût total de la gouvernance et de la gestion organisationnelle exprimé en pourcentage du coût total de la ville,%,GENG901T,REM Canada,Montréal,2017,0.05233, ( VGOV100003 + VGOV100001 ) / ( VADM100041 + VGOV100005 ) 
+2656,Coûts d’administration par demande du programme d’accès à l’information,$,CLKS370,REM Canada,Montréal,2012,236.22675,VADM900039 / VADM900015 
+2656,Coûts d’administration par demande du programme d’accès à l’information,$,CLKS370,REM Canada,Montréal,2013,208.9219,VADM900039 / VADM900015 
+2656,Coûts d’administration par demande du programme d’accès à l’information,$,CLKS370,REM Canada,Montréal,2014,167.23821,VADM900039 / VADM900015 
+2656,Coûts d’administration par demande du programme d’accès à l’information,$,CLKS370,REM Canada,Montréal,2015,156.35118,VADM900039 / VADM900015 
+2656,Coûts d’administration par demande du programme d’accès à l’information,$,CLKS370,REM Canada,Montréal,2016,157.0799,VADM900039 / VADM900015 
+2656,Coûts d’administration par demande du programme d’accès à l’information,$,CLKS370,REM Canada,Montréal,2017,132.1324,VADM900039 / VADM900015 
+2657,Coût total pour la distribution/transmission d’eau potable par km de conduites de distribution d’eau ,$,WATR305T,REM Canada,Montréal,2012,28180.30401, ( VEAU100049 + VEAU100036 + VEAU100050 - VEAU100037 ) / VEAU900003 
+2657,Coût total pour la distribution/transmission d’eau potable par km de conduites de distribution d’eau ,$,WATR305T,REM Canada,Montréal,2013,33395.71494, ( VEAU100049 + VEAU100036 + VEAU100050 - VEAU100037 ) / VEAU900003 
+2657,Coût total pour la distribution/transmission d’eau potable par km de conduites de distribution d’eau ,$,WATR305T,REM Canada,Montréal,2014,32639.43635, ( VEAU100049 + VEAU100036 + VEAU100050 - VEAU100037 ) / VEAU900003 
+2657,Coût total pour la distribution/transmission d’eau potable par km de conduites de distribution d’eau ,$,WATR305T,REM Canada,Montréal,2015,36915.76976, ( VEAU100049 + VEAU100036 + VEAU100050 - VEAU100037 ) / VEAU900003 
+2657,Coût total pour la distribution/transmission d’eau potable par km de conduites de distribution d’eau ,$,WATR305T,REM Canada,Montréal,2016,36226.27251, ( VEAU100049 + VEAU100036 + VEAU100050 - VEAU100037 ) / VEAU900003 
+2657,Coût total pour la distribution/transmission d’eau potable par km de conduites de distribution d’eau ,$,WATR305T,REM Canada,Montréal,2017,38057.07895, ( VEAU100049 + VEAU100036 + VEAU100050 - VEAU100037 ) / VEAU900003 
+2658,Pourcentage des utilisations électroniques sur le total des utilisations en bibliothèque,%,PLIB902,REM Canada,Montréal,2012,0.21298, ( VBIB900066 + VBIB900069 ) / ( VBIB900066 + VBIB900069 + VBIB900067 + VBIB900068 ) 
+2658,Pourcentage des utilisations électroniques sur le total des utilisations en bibliothèque,%,PLIB902,REM Canada,Montréal,2013,0.24186, ( VBIB900066 + VBIB900069 ) / ( VBIB900066 + VBIB900069 + VBIB900067 + VBIB900068 ) 
+2658,Pourcentage des utilisations électroniques sur le total des utilisations en bibliothèque,%,PLIB902,REM Canada,Montréal,2014,0.26737, ( VBIB900066 + VBIB900069 ) / ( VBIB900066 + VBIB900069 + VBIB900067 + VBIB900068 ) 
+2658,Pourcentage des utilisations électroniques sur le total des utilisations en bibliothèque,%,PLIB902,REM Canada,Montréal,2015,0.31028, ( VBIB900066 + VBIB900069 ) / ( VBIB900066 + VBIB900069 + VBIB900067 + VBIB900068 ) 
+2658,Pourcentage des utilisations électroniques sur le total des utilisations en bibliothèque,%,PLIB902,REM Canada,Montréal,2016,0.33413, ( VBIB900066 + VBIB900069 ) / ( VBIB900066 + VBIB900069 + VBIB900067 + VBIB900068 ) 
+2658,Pourcentage des utilisations électroniques sur le total des utilisations en bibliothèque,%,PLIB902,REM Canada,Montréal,2017,0.3652, ( VBIB900066 + VBIB900069 ) / ( VBIB900066 + VBIB900069 + VBIB900067 + VBIB900068 ) 
+2660,Pourcentage des utilisations physiques sur le total des utilisations des bibliothèques,%,PLIB903,REM Canada,Montréal,2012,0.78702, ( VBIB900067 + VBIB900068 ) / ( VBIB900067 + VBIB900068 + VBIB900066 + VBIB900069 ) 
+2660,Pourcentage des utilisations physiques sur le total des utilisations des bibliothèques,%,PLIB903,REM Canada,Montréal,2013,0.75814, ( VBIB900067 + VBIB900068 ) / ( VBIB900067 + VBIB900068 + VBIB900066 + VBIB900069 ) 
+2660,Pourcentage des utilisations physiques sur le total des utilisations des bibliothèques,%,PLIB903,REM Canada,Montréal,2014,0.73263, ( VBIB900067 + VBIB900068 ) / ( VBIB900067 + VBIB900068 + VBIB900066 + VBIB900069 ) 
+2660,Pourcentage des utilisations physiques sur le total des utilisations des bibliothèques,%,PLIB903,REM Canada,Montréal,2015,0.68972, ( VBIB900067 + VBIB900068 ) / ( VBIB900067 + VBIB900068 + VBIB900066 + VBIB900069 ) 
+2660,Pourcentage des utilisations physiques sur le total des utilisations des bibliothèques,%,PLIB903,REM Canada,Montréal,2016,0.66587, ( VBIB900067 + VBIB900068 ) / ( VBIB900067 + VBIB900068 + VBIB900066 + VBIB900069 ) 
+2660,Pourcentage des utilisations physiques sur le total des utilisations des bibliothèques,%,PLIB903,REM Canada,Montréal,2017,0.6348, ( VBIB900067 + VBIB900068 ) / ( VBIB900067 + VBIB900068 + VBIB900066 + VBIB900069 ) 
+2667,Coûts directs relatifs à la mise en application de la réglementation sur le stationnement par constat d’infraction,$,PRKG225,REM Canada,Montréal,2013,13.70447,VSTA100025 / VSTA900014 
+2667,Coûts directs relatifs à la mise en application de la réglementation sur le stationnement par constat d’infraction,$,PRKG225,REM Canada,Montréal,2014,14.30033,VSTA100025 / VSTA900014 
+2667,Coûts directs relatifs à la mise en application de la réglementation sur le stationnement par constat d’infraction,$,PRKG225,REM Canada,Montréal,2015,14.6724,VSTA100025 / VSTA900014 
+2667,Coûts directs relatifs à la mise en application de la réglementation sur le stationnement par constat d’infraction,$,PRKG225,REM Canada,Montréal,2016,14.09421,VSTA100025 / VSTA900014 
+2667,Coûts directs relatifs à la mise en application de la réglementation sur le stationnement par constat d’infraction,$,PRKG225,REM Canada,Montréal,2017,14.12113,VSTA100025 / VSTA900014 
+2668,Revenu brut relatif à la mise en application de la réglementation sur le stationnement par constat d’infraction,$,PRKG230,REM Canada,Montréal,2013,81.38103,VSTA100017 / VSTA900014 
+2668,Revenu brut relatif à la mise en application de la réglementation sur le stationnement par constat d’infraction,$,PRKG230,REM Canada,Montréal,2014,82.13531,VSTA100017 / VSTA900014 
+2668,Revenu brut relatif à la mise en application de la réglementation sur le stationnement par constat d’infraction,$,PRKG230,REM Canada,Montréal,2015,79.76982,VSTA100017 / VSTA900014 
+2668,Revenu brut relatif à la mise en application de la réglementation sur le stationnement par constat d’infraction,$,PRKG230,REM Canada,Montréal,2016,69.38917,VSTA100017 / VSTA900014 
+2668,Revenu brut relatif à la mise en application de la réglementation sur le stationnement par constat d’infraction,$,PRKG230,REM Canada,Montréal,2017,75.32574,VSTA100017 / VSTA900014 
+2669,Nombre de relevés T4 et T4A traités par équivalent à temps plein (ETP) assurant le service de la paie,Quantité,FPRL320A,REM Canada,Montréal,2013,736.93827,VRHU900018 / VRHU900009 
+2669,Nombre de relevés T4 et T4A traités par équivalent à temps plein (ETP) assurant le service de la paie,Quantité,FPRL320A,REM Canada,Montréal,2014,663.34211,VRHU900018 / VRHU900009 
+2669,Nombre de relevés T4 et T4A traités par équivalent à temps plein (ETP) assurant le service de la paie,Quantité,FPRL320A,REM Canada,Montréal,2015,848.57895,VRHU900018 / VRHU900009 
+2669,Nombre de relevés T4 et T4A traités par équivalent à temps plein (ETP) assurant le service de la paie,Quantité,FPRL320A,REM Canada,Montréal,2016,941,VRHU900018 / VRHU900009 
+2669,Nombre de relevés T4 et T4A traités par équivalent à temps plein (ETP) assurant le service de la paie,Quantité,FPRL320A,REM Canada,Montréal,2017,995,VRHU900018 / VRHU900009 
+2671,Coûts d’exploitation relatifs aux comptes fournisseurs par équivalent à temps plein (ETP) assurant le traitement des comptes fournisseurs,$,FINV319,REM Canada,Montréal,2012,65820.71429, ( VFIN100075 + VFIN100005 ) / VFIN900040
+2671,Coûts d’exploitation relatifs aux comptes fournisseurs par équivalent à temps plein (ETP) assurant le traitement des comptes fournisseurs,$,FINV319,REM Canada,Montréal,2013,86021.32, ( VFIN100075 + VFIN100005 ) / VFIN900040
+2671,Coûts d’exploitation relatifs aux comptes fournisseurs par équivalent à temps plein (ETP) assurant le traitement des comptes fournisseurs,$,FINV319,REM Canada,Montréal,2014,87513.12, ( VFIN100075 + VFIN100005 ) / VFIN900040
+2671,Coûts d’exploitation relatifs aux comptes fournisseurs par équivalent à temps plein (ETP) assurant le traitement des comptes fournisseurs,$,FINV319,REM Canada,Montréal,2015,81263.52, ( VFIN100075 + VFIN100005 ) / VFIN900040
+2671,Coûts d’exploitation relatifs aux comptes fournisseurs par équivalent à temps plein (ETP) assurant le traitement des comptes fournisseurs,$,FINV319,REM Canada,Montréal,2016,85655.04, ( VFIN100075 + VFIN100005 ) / VFIN900040
+2671,Coûts d’exploitation relatifs aux comptes fournisseurs par équivalent à temps plein (ETP) assurant le traitement des comptes fournisseurs,$,FINV319,REM Canada,Montréal,2017,90660.85185, ( VFIN100075 + VFIN100005 ) / VFIN900040
+2675,Pourcentage représenté par les droits d’entrée par rapport aux coûts d’exploitation des programmes et des installations de sports et loisirs,%,SREC312,REM Canada,Montréal,2013,0.05567,VSPL100021 / ( VSPL100005 + VSPL100006 - VSPL100008 + VSPL100009 + VSPL100003 - VSPL100004 ) 
+2675,Pourcentage représenté par les droits d’entrée par rapport aux coûts d’exploitation des programmes et des installations de sports et loisirs,%,SREC312,REM Canada,Montréal,2014,0.0578,VSPL100021 / ( VSPL100005 + VSPL100006 - VSPL100008 + VSPL100009 + VSPL100003 - VSPL100004 ) 
+2675,Pourcentage représenté par les droits d’entrée par rapport aux coûts d’exploitation des programmes et des installations de sports et loisirs,%,SREC312,REM Canada,Montréal,2015,0.05193,VSPL100021 / ( VSPL100005 + VSPL100006 - VSPL100008 + VSPL100009 + VSPL100003 - VSPL100004 ) 
+2675,Pourcentage représenté par les droits d’entrée par rapport aux coûts d’exploitation des programmes et des installations de sports et loisirs,%,SREC312,REM Canada,Montréal,2016,0.0531,VSPL100021 / ( VSPL100005 + VSPL100006 - VSPL100008 + VSPL100009 + VSPL100003 - VSPL100004 ) 
+2675,Pourcentage représenté par les droits d’entrée par rapport aux coûts d’exploitation des programmes et des installations de sports et loisirs,%,SREC312,REM Canada,Montréal,2017,0.05714,VSPL100021 / ( VSPL100005 + VSPL100006 - VSPL100008 + VSPL100009 + VSPL100003 - VSPL100004 ) 
+2676,Coûts d’exploitation des programmes de sports et loisirs par habitant,$,SREC902,REM Canada,Montréal,2013,64.23444, ( VSPL100005 + VSPL100006 - VSPL100008 ) / VPOP900002
+2676,Coûts d’exploitation des programmes de sports et loisirs par habitant,$,SREC902,REM Canada,Montréal,2014,65.94855, ( VSPL100005 + VSPL100006 - VSPL100008 ) / VPOP900002
+2676,Coûts d’exploitation des programmes de sports et loisirs par habitant,$,SREC902,REM Canada,Montréal,2015,73.54177, ( VSPL100005 + VSPL100006 - VSPL100008 ) / VPOP900002
+2676,Coûts d’exploitation des programmes de sports et loisirs par habitant,$,SREC902,REM Canada,Montréal,2016,74.77992, ( VSPL100005 + VSPL100006 - VSPL100008 ) / VPOP900002
+2676,Coûts d’exploitation des programmes de sports et loisirs par habitant,$,SREC902,REM Canada,Montréal,2017,76.33811, ( VSPL100005 + VSPL100006 - VSPL100008 ) / VPOP900002
+2677,Coûts d’exploitation des installations de sports et loisirs par habitant,$,SREC903,REM Canada,Montréal,2013,52.50534, ( VSPL100009 + VSPL100003 - VSPL100004 ) / VPOP900002
+2677,Coûts d’exploitation des installations de sports et loisirs par habitant,$,SREC903,REM Canada,Montréal,2014,52.29303, ( VSPL100009 + VSPL100003 - VSPL100004 ) / VPOP900002
+2677,Coûts d’exploitation des installations de sports et loisirs par habitant,$,SREC903,REM Canada,Montréal,2015,52.86627, ( VSPL100009 + VSPL100003 - VSPL100004 ) / VPOP900002
+2677,Coûts d’exploitation des installations de sports et loisirs par habitant,$,SREC903,REM Canada,Montréal,2016,53.81951, ( VSPL100009 + VSPL100003 - VSPL100004 ) / VPOP900002
+2677,Coûts d’exploitation des installations de sports et loisirs par habitant,$,SREC903,REM Canada,Montréal,2017,51.91498, ( VSPL100009 + VSPL100003 - VSPL100004 ) / VPOP900002
+2678,Pourcentage de déchets solides réacheminé pour la valorisation (également appelé « Taux annuel de diversion pour la gestion des matières résiduelles »),%,SWST920M,REM Canada,Montréal,2013,0.31012,VGMR900012 / VGMR900014
+2678,Pourcentage de déchets solides réacheminé pour la valorisation (également appelé « Taux annuel de diversion pour la gestion des matières résiduelles »),%,SWST920M,REM Canada,Montréal,2014,0.30919,VGMR900012 / VGMR900014
+2678,Pourcentage de déchets solides réacheminé pour la valorisation (également appelé « Taux annuel de diversion pour la gestion des matières résiduelles »),%,SWST920M,REM Canada,Montréal,2015,0.32523,VGMR900012 / VGMR900014
+2678,Pourcentage de déchets solides réacheminé pour la valorisation (également appelé « Taux annuel de diversion pour la gestion des matières résiduelles »),%,SWST920M,REM Canada,Montréal,2016,0.35885,VGMR900012 / VGMR900014
+2678,Pourcentage de déchets solides réacheminé pour la valorisation (également appelé « Taux annuel de diversion pour la gestion des matières résiduelles »),%,SWST920M,REM Canada,Montréal,2017,0.37472,VGMR900012 / VGMR900014
+2686,Nombre d’heures d’ouverture des bibliothèques par habitant,heure,PLIB201,REM Canada,Montréal,2014,0.07136, ( VBIB900052 + VBIB900042 ) / VPOP900002
+2686,Nombre d’heures d’ouverture des bibliothèques par habitant,heure,PLIB201,REM Canada,Montréal,2015,0.07202, ( VBIB900052 + VBIB900042 ) / VPOP900002
+2686,Nombre d’heures d’ouverture des bibliothèques par habitant,heure,PLIB201,REM Canada,Montréal,2016,0.07038, ( VBIB900052 + VBIB900042 ) / VPOP900002
+2686,Nombre d’heures d’ouverture des bibliothèques par habitant,heure,PLIB201,REM Canada,Montréal,2017,0.07267, ( VBIB900052 + VBIB900042 ) / VPOP900002
+2688,Moyenne hebdomadaire d’heures d’ouverture par bibliothèque,heure,PLIB203,REM Canada,Montréal,2013,53.47778, ( VBIB900053 + VBIB900043 ) / ( VBIB900054 + VBIB900010 ) 
+2688,Moyenne hebdomadaire d’heures d’ouverture par bibliothèque,heure,PLIB203,REM Canada,Montréal,2014,54.91111, ( VBIB900053 + VBIB900043 ) / ( VBIB900054 + VBIB900010 ) 
+2688,Moyenne hebdomadaire d’heures d’ouverture par bibliothèque,heure,PLIB203,REM Canada,Montréal,2015,54.86957, ( VBIB900053 + VBIB900043 ) / ( VBIB900054 + VBIB900010 ) 
+2688,Moyenne hebdomadaire d’heures d’ouverture par bibliothèque,heure,PLIB203,REM Canada,Montréal,2016,54.00739, ( VBIB900053 + VBIB900043 ) / ( VBIB900054 + VBIB900010 ) 
+2688,Moyenne hebdomadaire d’heures d’ouverture par bibliothèque,heure,PLIB203,REM Canada,Montréal,2017,56.1087, ( VBIB900053 + VBIB900043 ) / ( VBIB900054 + VBIB900010 ) 
+2689,Dépenses pour l’acquisition de documents physiques en bibliothèque par habitant,$,PLIB212,REM Canada,Montréal,2013,3.93391, ( VBIB100055 + VBIB100065 ) / VPOP900002
+2689,Dépenses pour l’acquisition de documents physiques en bibliothèque par habitant,$,PLIB212,REM Canada,Montréal,2014,3.99896, ( VBIB100055 + VBIB100065 ) / VPOP900002
+2689,Dépenses pour l’acquisition de documents physiques en bibliothèque par habitant,$,PLIB212,REM Canada,Montréal,2015,6.01318, ( VBIB100055 + VBIB100065 ) / VPOP900002
+2689,Dépenses pour l’acquisition de documents physiques en bibliothèque par habitant,$,PLIB212,REM Canada,Montréal,2016,5.98366, ( VBIB100055 + VBIB100065 ) / VPOP900002
+2689,Dépenses pour l’acquisition de documents physiques en bibliothèque par habitant,$,PLIB212,REM Canada,Montréal,2017,5.69514, ( VBIB100055 + VBIB100065 ) / VPOP900002
+2690,Dépenses pour l’acquisition de documents numériques par habitant,$,PLIB214,REM Canada,Montréal,2013,0.35635, ( VBIB100001 + VBIB100031 ) / VPOP900002
+2690,Dépenses pour l’acquisition de documents numériques par habitant,$,PLIB214,REM Canada,Montréal,2014,0.32207, ( VBIB100001 + VBIB100031 ) / VPOP900002
+2690,Dépenses pour l’acquisition de documents numériques par habitant,$,PLIB214,REM Canada,Montréal,2015,1.31825, ( VBIB100001 + VBIB100031 ) / VPOP900002
+2690,Dépenses pour l’acquisition de documents numériques par habitant,$,PLIB214,REM Canada,Montréal,2016,1.83302, ( VBIB100001 + VBIB100031 ) / VPOP900002
+2690,Dépenses pour l’acquisition de documents numériques par habitant,$,PLIB214,REM Canada,Montréal,2017,1.67219, ( VBIB100001 + VBIB100031 ) / VPOP900002
+2691,Nombre de postes informatiques publics pour 100 000 habitants,Quantité,PLIB215,REM Canada,Montréal,2013,48.17256, ( VBIB900028 + VBIB900044 ) / ( VPOP900002 / 100000 ) 
+2691,Nombre de postes informatiques publics pour 100 000 habitants,Quantité,PLIB215,REM Canada,Montréal,2014,44.4189, ( VBIB900028 + VBIB900044 ) / ( VPOP900002 / 100000 ) 
+2691,Nombre de postes informatiques publics pour 100 000 habitants,Quantité,PLIB215,REM Canada,Montréal,2015,67.9964, ( VBIB900028 + VBIB900044 ) / ( VPOP900002 / 100000 ) 
+2691,Nombre de postes informatiques publics pour 100 000 habitants,Quantité,PLIB215,REM Canada,Montréal,2016,69.89062, ( VBIB900028 + VBIB900044 ) / ( VPOP900002 / 100000 ) 
+2691,Nombre de postes informatiques publics pour 100 000 habitants,Quantité,PLIB215,REM Canada,Montréal,2017,68.87789, ( VBIB900028 + VBIB900044 ) / ( VPOP900002 / 100000 ) 
+2692,Coûts d’exploitation des bibliothèques par habitant,$,PLIB901,REM Canada,Montréal,2013,58.0587, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 - VBIB100041 ) / VPOP900002 
+2692,Coûts d’exploitation des bibliothèques par habitant,$,PLIB901,REM Canada,Montréal,2014,54.84356, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 - VBIB100041 ) / VPOP900002 
+2692,Coûts d’exploitation des bibliothèques par habitant,$,PLIB901,REM Canada,Montréal,2015,78.25005, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 - VBIB100041 ) / VPOP900002 
+2692,Coûts d’exploitation des bibliothèques par habitant,$,PLIB901,REM Canada,Montréal,2016,80.37154, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 - VBIB100041 ) / VPOP900002 
+2692,Coûts d’exploitation des bibliothèques par habitant,$,PLIB901,REM Canada,Montréal,2017,75.66638, ( VBIB100011 + VBIB100003 + VBIB100046 + VBIB100009 - VBIB100041 ) / VPOP900002 
+2700,Coûts d’exploitation de la gestion des eaux pluviales en milieu urbain par km de systèmes de drainage,$,STMW901,REM Canada,Montréal,2013,3805.7422, ( VEAU100054 + VEAU100052 + VEAU100053 ) / VEAU900028 
+2700,Coûts d’exploitation de la gestion des eaux pluviales en milieu urbain par km de systèmes de drainage,$,STMW901,REM Canada,Montréal,2014,6430.72608, ( VEAU100054 + VEAU100052 + VEAU100053 ) / VEAU900028 
+2700,Coûts d’exploitation de la gestion des eaux pluviales en milieu urbain par km de systèmes de drainage,$,STMW901,REM Canada,Montréal,2015,6729.0263, ( VEAU100054 + VEAU100052 + VEAU100053 ) / VEAU900028 
+2700,Coûts d’exploitation de la gestion des eaux pluviales en milieu urbain par km de systèmes de drainage,$,STMW901,REM Canada,Montréal,2016,7306.16104, ( VEAU100054 + VEAU100052 + VEAU100053 ) / VEAU900028 
+2700,Coûts d’exploitation de la gestion des eaux pluviales en milieu urbain par km de systèmes de drainage,$,STMW901,REM Canada,Montréal,2017,7998.25264, ( VEAU100054 + VEAU100052 + VEAU100053 ) / VEAU900028 
+2702,Valeur des acquisitions de biens et services par employé du service centralisé des achats,$,FPUR355,REM Canada,Montréal,2014,5698764.25301, ( VAPP900010 ) / VAPP900033 
+2702,Valeur des acquisitions de biens et services par employé du service centralisé des achats,$,FPUR355,REM Canada,Montréal,2015,11496315.90361, ( VAPP900010 ) / VAPP900033 
+2702,Valeur des acquisitions de biens et services par employé du service centralisé des achats,$,FPUR355,REM Canada,Montréal,2016,8547539.57831, ( VAPP900010 ) / VAPP900033 
+2702,Valeur des acquisitions de biens et services par employé du service centralisé des achats,$,FPUR355,REM Canada,Montréal,2017,11784835.25758, ( VAPP900010 ) / VAPP900033 
+2703,Nombre de policiers pour 100 000 habitants,Quantité,PLCE205,REM Canada,Montréal,2011,235.8066,VPOL900366 / ( VPOP900004 / 100000 ) 
+2703,Nombre de policiers pour 100 000 habitants,Quantité,PLCE205,REM Canada,Montréal,2012,239.77263,VPOL900366 / ( VPOP900004 / 100000 ) 
+2703,Nombre de policiers pour 100 000 habitants,Quantité,PLCE205,REM Canada,Montréal,2013,237.92582,VPOL900366 / ( VPOP900004 / 100000 ) 
+2703,Nombre de policiers pour 100 000 habitants,Quantité,PLCE205,REM Canada,Montréal,2014,235.1591,VPOL900366 / ( VPOP900004 / 100000 ) 
+2703,Nombre de policiers pour 100 000 habitants,Quantité,PLCE205,REM Canada,Montréal,2015,229.86365,VPOL900366 / ( VPOP900004 / 100000 ) 
+2703,Nombre de policiers pour 100 000 habitants,Quantité,PLCE205,REM Canada,Montréal,2016,226.06868,VPOL900366 / ( VPOP900004 / 100000 ) 
+2703,Nombre de policiers pour 100 000 habitants,Quantité,PLCE205,REM Canada,Montréal,2017,226.70183,VPOL900366 / ( VPOP900004 / 100000 ) 
+2704,Nombre de civils et autre personnel pour 100 000 habitants,Quantité,PLCE210,REM Canada,Montréal,2011,70.15054,VPOL900148 / ( VPOP900004 / 100000 ) 
+2704,Nombre de civils et autre personnel pour 100 000 habitants,Quantité,PLCE210,REM Canada,Montréal,2012,49.91569,VPOL900148 / ( VPOP900004 / 100000 ) 
+2704,Nombre de civils et autre personnel pour 100 000 habitants,Quantité,PLCE210,REM Canada,Montréal,2013,48.71004,VPOL900148 / ( VPOP900004 / 100000 ) 
+2704,Nombre de civils et autre personnel pour 100 000 habitants,Quantité,PLCE210,REM Canada,Montréal,2014,51.10393,VPOL900148 / ( VPOP900004 / 100000 ) 
+2704,Nombre de civils et autre personnel pour 100 000 habitants,Quantité,PLCE210,REM Canada,Montréal,2015,49.20644,VPOL900148 / ( VPOP900004 / 100000 ) 
+2704,Nombre de civils et autre personnel pour 100 000 habitants,Quantité,PLCE210,REM Canada,Montréal,2016,48.46459,VPOL900148 / ( VPOP900004 / 100000 ) 
+2704,Nombre de civils et autre personnel pour 100 000 habitants,Quantité,PLCE210,REM Canada,Montréal,2017,47.75009,VPOL900148 / ( VPOP900004 / 100000 ) 
+2705,Coût total des services policiers par employé,$,PLCE320T,REM Canada,Montréal,2013,144529.73708, ( VPOL100001 + VPOL100372 + VPOL100195 - VPOL100196 ) / ( VPOL900366 + VPOL900148 ) 
+2705,Coût total des services policiers par employé,$,PLCE320T,REM Canada,Montréal,2014,144124.44396, ( VPOL100001 + VPOL100372 + VPOL100195 - VPOL100196 ) / ( VPOL900366 + VPOL900148 ) 
+2705,Coût total des services policiers par employé,$,PLCE320T,REM Canada,Montréal,2015,139300.74206, ( VPOL100001 + VPOL100372 + VPOL100195 - VPOL100196 ) / ( VPOL900366 + VPOL900148 ) 
+2705,Coût total des services policiers par employé,$,PLCE320T,REM Canada,Montréal,2016,140269.28988, ( VPOL100001 + VPOL100372 + VPOL100195 - VPOL100196 ) / ( VPOL900366 + VPOL900148 ) 
+2705,Coût total des services policiers par employé,$,PLCE320T,REM Canada,Montréal,2017,143289.09986, ( VPOL100001 + VPOL100372 + VPOL100195 - VPOL100196 ) / ( VPOL900366 + VPOL900148 ) 
+2736,Coût total des routes par kilomètre de voie,$,ROAD308T,REM Canada,Montréal,2014,54279.2109, ( VTRA100005 + VTRA100027 + VTRA100007 - VTRA100029 ) / VTRA900006 
+2736,Coût total des routes par kilomètre de voie,$,ROAD308T,REM Canada,Montréal,2015,58371.21892, ( VTRA100005 + VTRA100027 + VTRA100007 - VTRA100029 ) / VTRA900006 
+2736,Coût total des routes par kilomètre de voie,$,ROAD308T,REM Canada,Montréal,2016,61491.65081, ( VTRA100005 + VTRA100027 + VTRA100007 - VTRA100029 ) / VTRA900006 
+2736,Coût total des routes par kilomètre de voie,$,ROAD308T,REM Canada,Montréal,2017,65657.46765, ( VTRA100005 + VTRA100027 + VTRA100007 - VTRA100029 ) / VTRA900006 
+2744,Inspections de taxi par nombre de permis d’immatriculation de taxi (véhicules),Quantité,LICN246,REM Canada,Montréal,2013,0.67863,VREG900022 / VREG900026 
+2744,Inspections de taxi par nombre de permis d’immatriculation de taxi (véhicules),Quantité,LICN246,REM Canada,Montréal,2014,1.25356,VREG900022 / VREG900026 
+2744,Inspections de taxi par nombre de permis d’immatriculation de taxi (véhicules),Quantité,LICN246,REM Canada,Montréal,2015,1.40446,VREG900022 / VREG900026 
+2744,Inspections de taxi par nombre de permis d’immatriculation de taxi (véhicules),Quantité,LICN246,REM Canada,Montréal,2016,1.96188,VREG900022 / VREG900026 
+2744,Inspections de taxi par nombre de permis d’immatriculation de taxi (véhicules),Quantité,LICN246,REM Canada,Montréal,2017,2.00863,VREG900022 / VREG900026 
