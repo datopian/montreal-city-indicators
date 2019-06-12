@@ -1,4 +1,16 @@
-CKAN frontend in node.js.
+# Montreal City Indicators
+The Montreal City Indicators site (this repository) consists of the following conmponents
+
+* [Visualization Dashboard](#data-dashboard)
+* [CKAN frontend v2](#CKAN-frontend)
+
+## configuration
+### .env
+* `API_URL` - Path to CKAN API v3 where data is hosted
+* `CMS_URL` - Path to wordpress installation for blog, static pages, etc @@TODO - document all static pages
+
+## Data dashboard
+## CKAN frontend
 
 [![Build Status](https://travis-ci.org/datopian/frontend-v2.svg?branch=master)](https://travis-ci.org/datopian/frontend-v2)
 [![Coverage Status](https://coveralls.io/repos/github/datopian/frontend-v2/badge.svg?branch=master)](https://coveralls.io/github/datopian/frontend-v2?branch=master)

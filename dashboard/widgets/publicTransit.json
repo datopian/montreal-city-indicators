@@ -1,0 +1,29 @@
+{"widget":{
+  "elementId": "publicTransit",
+  "view": {
+    "title": "XXXXXXX Rides",
+    "legend": "XXXXXXXX Total rides",
+    "resources": [
+      {
+	"datasetId": "montreal-kpis",
+	"name": "trips",
+	"transform": [
+	  {
+	    "type": "aggregate",
+	    "fields": [
+	      "Valeur"
+	    ],
+	    "operations": [
+	      "argmax"
+	    ]
+	  }
+	]
+      }
+    ],
+    "specType": "figure",
+    "spec": {
+      "fieldName": "Valeur"
+    }
+    }
+  },
+"dataset": "https://datahub.io/starsinmypockets/montreal-kpis"}

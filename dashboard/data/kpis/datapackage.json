@@ -1,0 +1,187 @@
+{
+    "name": "montreal-kpis",
+    "resources": [
+        {
+            "path": "parks.csv",
+            "schema": {
+                "missingValues": [
+                    ""
+                ],
+                "fields": [
+                    {
+                        "name": "KPIID",
+                        "format": "default",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "NomIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "UniteMesure",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "noIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "TypeIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "ville",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "DateDonnee",
+                        "format": "default",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Valeur",
+                        "format": "default",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Calcul",
+                        "format": "default",
+                        "type": "string"
+                    }
+                ]
+            },
+            "encoding": "utf-8",
+            "profile": "tabular-data-resource",
+            "name": "parks",
+            "format": "csv",
+            "mediatype": "text/csv"
+        },
+        {
+            "path": "libs.csv",
+            "schema": {
+                "missingValues": [
+                    ""
+                ],
+                "fields": [
+                    {
+                        "name": "KPIID",
+                        "format": "default",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "NomIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "UniteMesure",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "noIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "TypeIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "ville",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "DateDonnee",
+                        "format": "default",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Valeur",
+                        "format": "default",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Calcul",
+                        "format": "default",
+                        "type": "string"
+                    }
+                ]
+            },
+            "encoding": "utf-8",
+            "profile": "tabular-data-resource",
+            "name": "libs",
+            "format": "csv",
+            "mediatype": "text/csv"
+        },
+        {
+            "path": "trips.csv",
+            "schema": {
+                "missingValues": [
+                    ""
+                ],
+                "fields": [
+                    {
+                        "name": "KPIID",
+                        "format": "default",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "NomIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "UniteMesure",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "noIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "TypeIndicateur",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "ville",
+                        "format": "default",
+                        "type": "string"
+                    },
+                    {
+                        "name": "DateDonnee",
+                        "format": "default",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Valeur",
+                        "format": "default",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Calcul",
+                        "format": "default",
+                        "type": "string"
+                    }
+                ]
+            },
+            "encoding": "utf-8",
+            "profile": "tabular-data-resource",
+            "name": "trips",
+            "format": "csv",
+            "mediatype": "text/csv"
+        }
+    ],
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "profile": "tabular-data-package"
+}

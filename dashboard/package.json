@@ -1,0 +1,23 @@
+{
+  "name": "montreal-city-indicators",
+  "version": "1.0.0",
+  "description": "--- permalink: /index.html --- #Montreal KPI Dashboard ## To generate data subsets `$ python kpis.py`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datopian/montreal-city-indicators.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datopian/montreal-city-indicators/issues"
+  },
+  "homepage": "https://github.com/datopian/montreal-city-indicators#readme",
+  "dependencies": {
+    "@datahub/dashboard": "git@github.com:datopian/dashboard-js.git#c49b876",
+    "axios": "^0.19.0"
+  }
+}
