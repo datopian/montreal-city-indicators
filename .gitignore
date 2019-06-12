@@ -13,3 +13,4 @@ sandbox/*
 
 #vim
 .*.sw*
+node_modules/
